@@ -1,16 +1,13 @@
 pacman::p_load("ggplot2","VennDiagram", "devtools", "ggvenn", "ggrepel", "SuperExactTest", "UpsetR")
 #devtools::install_github("yanlinlin82/ggvenn")
 
-setwd('/home/botanik/Documents/GitHub/Tillandsia-CAM-Drought/2. DGE/III. Venn Diagrams')
-setwd('/Users/clara//Documents/GitHub.nosync/Tillandsia-CAM-Drought/2. DGE/III. Venn Diagrams')
-
 # Coordinates for labels
 coord <- read.table('coordinates_venn.txt', header = T)
 
 venn_time <- readRDS("VennDiagram_Input_Day_vs_Night.20230914.rds")
 
-# Make Venn Diagram for timewise comparisons 
-names(venn_time) <- c("T. vanhyningii,\n control", 
+# Make Venn Diagram for timewise comparisons
+names(venn_time) <- c("T. vanhyningii,\n control",
                       "T. vanhyningii, drought",
                       "T. leiboldiana,\n control",
                       "T. leiboldiana, drought")
@@ -22,7 +19,7 @@ venn_time <- list(
   "T. leiboldiana,\n control" = venn_time[["T. leiboldiana,\n control"]]
 )
 
-# Hypergeometric test 
+# Hypergeometric test
 
 # This was done followingthe tutorial / example at https://github.com/mw201608/SuperExactTest/blob/master/examples/set_html.Md
 
@@ -59,7 +56,7 @@ common_genes_LEI <- intersect(venn_time[[3]], venn_time[[4]]) # 455 genes
 common_genes_control <- intersect(venn_time[[1]], venn_time[[4]]) # 284 genes
 common_genes_drought <- intersect(venn_time[[2]], venn_time[[3]]) # 345 genes
 
-p <- ggvenn(venn_time, set_name_size = 6, text_size = 8) + 
+p <- ggvenn(venn_time, set_name_size = 6, text_size = 8) +
   scale_fill_manual(values = c("#0C7C59", "#5B4B49", "#E1CA96", "#A7E8BD"))+  geom_label(data = coord, aes(x, y, label = s), size = 6)
 
 # Save the plot as a PDF
@@ -69,10 +66,10 @@ ggsave("Figure4A_VennDiagram_Time.pdf", p, width = 14, height = 12)
 ggsave("Figure4A_VennDiagram_Time.png", p, width = 14, height = 12, dpi = 500)
 
 
-# Make Venn Diagram for watering comparisons 
+# Make Venn Diagram for watering comparisons
 venn_water <- readRDS("VennDiagram_Input_Drought_vs_Control.20230914.rds")
 
-names(venn_water) <- c("T. vanhyningii, day", 
+names(venn_water) <- c("T. vanhyningii, day",
                       "T. leiboldiana, day",
                       "T. leiboldiana, night",
                       "T. vanhyningii, night")
@@ -121,7 +118,7 @@ day`, venn_water$`T. leiboldiana,
 day`) # 11 genes
 common_genes_night <- intersect(venn_water$`T. vanhyningii, night`, venn_water$`T. leiboldiana, night`) # 11 genes
 
-p_w <- ggvenn(venn_water, set_name_size = 7, text_size = 8, show_elements = F) + 
+p_w <- ggvenn(venn_water, set_name_size = 7, text_size = 8, show_elements = F) +
   scale_fill_manual(values = c("#F18F01", "#76415E", "#BAA0AE", "#EFEBCE"))+  geom_label(data = coord, aes(x, y, label = s), size = 6)
 p_w
 
@@ -197,7 +194,7 @@ control`, venn_time_cam$`T. leiboldiana,
 control`) # 24 genes
 common_genes_drought <- intersect(venn_time_cam$`T. vanhyningii, drought`, venn_time_cam$`T. leiboldiana, drought`) # 22 genes
 
-p <- ggvenn(venn_time_cam, set_name_size = 6, text_size = 8) + 
+p <- ggvenn(venn_time_cam, set_name_size = 6, text_size = 8) +
   scale_fill_manual(values = c("#0C7C59", "#5B4B49", "#E1CA96", "#A7E8BD"))+  geom_label(data = coord, aes(x, y, label = s), size = 6)
 # Save the plot as a PDF
 ggsave("Figure4A_VennDiagram_Time_CAM.pdf", p, width = 14, height = 12)
@@ -228,7 +225,7 @@ common_genes_night <- intersect(venn_water_cam[[2]], venn_water_cam[[3]]) # 0 ge
 shared_genes <- intersect(VAN_unique_genes, LEI_unique_genes)
 length(shared_genes)
 
-p_w <- ggvenn(venn_water_cam, set_name_size = 7, text_size = 8, show_elements = F) + 
+p_w <- ggvenn(venn_water_cam, set_name_size = 7, text_size = 8, show_elements = F) +
   scale_fill_manual(values = c("#F18F01", "#76415E", "#BAA0AE", "#EFEBCE"))+  geom_label(data = coord, aes(x, y, label = s), size = 6)
 p_w
 # Save the plot as a PDF
