@@ -1,0 +1,68 @@
+Category	ID	Term	Genes	adj_pval
+BP	GO:0009768	photosynthesis, light harvesting in photosystem I	Tfasc_v1.04301-RA, Tfasc_v1.05868-RA, Tfasc_v1.10775-RA, Tfasc_v1.22502-RA, Tfasc_v1.24065-RA	5.6e-07
+BP	GO:0055085	transmembrane transport	Tfasc_v1.00332-RA, Tfasc_v1.00336-RA, Tfasc_v1.00554-RA, Tfasc_v1.00773-RA, Tfasc_v1.01365-RA, Tfasc_v1.01957-RA, Tfasc_v1.07651-RA, Tfasc_v1.08116-RA, Tfasc_v1.12527-RA, Tfasc_v1.12528-RA, Tfasc_v1.13683-RA, Tfasc_v1.14256-RA, Tfasc_v1.14790-RA, Tfasc_v1.16316-RA, Tfasc_v1.17674-RA, Tfasc_v1.19392-RA, Tfasc_v1.20119-RA, Tfasc_v1.21432-RA, Tfasc_v1.22405-RA, Tfasc_v1.23297-RB, Tfasc_v1.23735-RA, Tfasc_v1.28079-RA	7.3e-05
+BP	GO:0015979	photosynthesis	Tfasc_v1.01263-RA, Tfasc_v1.04301-RA, Tfasc_v1.05868-RA, Tfasc_v1.07719-RA, Tfasc_v1.10775-RA, Tfasc_v1.11896-RA, Tfasc_v1.11918-RA, Tfasc_v1.13901-RA, Tfasc_v1.17563-RA, Tfasc_v1.22502-RA, Tfasc_v1.24065-RA, Tfasc_v1.25642-RA, Tfasc_v1.25644-RA, Tfasc_v1.26194-RA	0.00012
+BP	GO:0042908	xenobiotic transport	Tfasc_v1.00554-RA, Tfasc_v1.12527-RA, Tfasc_v1.12528-RA, Tfasc_v1.23735-RA	0.00318
+BP	GO:0006541	glutamine metabolic process	Tfasc_v1.18839-RA, Tfasc_v1.18842-RA, Tfasc_v1.19507-RA, Tfasc_v1.25239-RA	0.0098
+BP	GO:0010143	cutin biosynthetic process	Tfasc_v1.29585-RA, Tfasc_v1.29586-RA	0.00981
+BP	GO:0009769	photosynthesis, light harvesting in photosystem II	Tfasc_v1.10775-RA	0.01013
+BP	GO:0046949	fatty-acyl-CoA biosynthetic process	Tfasc_v1.07919-RA	0.01013
+BP	GO:0009970	cellular response to sulfate starvation	Tfasc_v1.03296-RA	0.01013
+BP	GO:0001578	microtubule bundle formation	Tfasc_v1.09404-RA	0.02015
+BP	GO:0048657	anther wall tapetum cell differentiation	Tfasc_v1.09404-RA	0.02015
+BP	GO:0001676	long-chain fatty acid metabolic process	Tfasc_v1.07919-RA, Tfasc_v1.14176-RA, Tfasc_v1.20070-RA	0.0204
+BP	GO:0009755	hormone-mediated signaling pathway	Tfasc_v1.04767-RA, Tfasc_v1.05511-RA, Tfasc_v1.09404-RA, Tfasc_v1.09405-RA, Tfasc_v1.11969-RA, Tfasc_v1.16254-RA, Tfasc_v1.20122-RA, Tfasc_v1.27843-RA, Tfasc_v1.29767-RA	0.02147
+BP	GO:0010268	brassinosteroid homeostasis	Tfasc_v1.09404-RA, Tfasc_v1.16061-RA	0.0243
+BP	GO:0009737	response to abscisic acid	Tfasc_v1.10775-RA, Tfasc_v1.17137-RA, Tfasc_v1.20067-RA, Tfasc_v1.24176-RA, Tfasc_v1.27843-RA	0.0262
+BP	GO:0006869	lipid transport	Tfasc_v1.01876-RA, Tfasc_v1.11764-RA, Tfasc_v1.11765-RA, Tfasc_v1.22908-RA	0.02707
+BP	GO:0045893	positive regulation of DNA-templated transcription	Tfasc_v1.01363-RA, Tfasc_v1.02376-RA, Tfasc_v1.10617-RA, Tfasc_v1.14071-RA, Tfasc_v1.22959-RA, Tfasc_v1.24176-RA	0.02826
+BP	GO:0015813	L-glutamate transmembrane transport	Tfasc_v1.16316-RA	0.03007
+BP	GO:0042549	photosystem II stabilization	Tfasc_v1.17563-RA	0.0399
+BP	GO:0015700	arsenite transport	Tfasc_v1.01957-RA	0.0399
+BP	GO:0009647	skotomorphogenesis	Tfasc_v1.09404-RA	0.0399
+BP	GO:0036444	calcium import into the mitochondrion	Tfasc_v1.19392-RA	0.0399
+BP	GO:0009729	detection of brassinosteroid stimulus	Tfasc_v1.09404-RA	0.04962
+BP	GO:0016477	cell migration	Tfasc_v1.20309-RA	0.04962
+MF	GO:0016168	chlorophyll binding	Tfasc_v1.04301-RA, Tfasc_v1.05868-RA, Tfasc_v1.10775-RA, Tfasc_v1.22502-RA, Tfasc_v1.24065-RA, Tfasc_v1.25644-RA	2.5e-07
+MF	GO:0020037	heme binding	Tfasc_v1.06011-RA, Tfasc_v1.09057-RA, Tfasc_v1.12070-RA, Tfasc_v1.12471-RA, Tfasc_v1.16061-RA, Tfasc_v1.17160-RA, Tfasc_v1.17162-RA, Tfasc_v1.17165-RA, Tfasc_v1.17175-RA, Tfasc_v1.18354-RA, Tfasc_v1.19450-RA, Tfasc_v1.28072-RA, Tfasc_v1.28377-RA	0.00015
+MF	GO:0005506	iron ion binding	Tfasc_v1.06011-RA, Tfasc_v1.12070-RA, Tfasc_v1.12471-RA, Tfasc_v1.16061-RA, Tfasc_v1.17160-RA, Tfasc_v1.17162-RA, Tfasc_v1.17165-RA, Tfasc_v1.17175-RA, Tfasc_v1.18354-RA, Tfasc_v1.28072-RA, Tfasc_v1.28377-RA	0.00057
+MF	GO:0016709	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen	Tfasc_v1.12070-RA, Tfasc_v1.17160-RA, Tfasc_v1.17162-RA, Tfasc_v1.17165-RA, Tfasc_v1.17175-RA, Tfasc_v1.18354-RA, Tfasc_v1.19929-RA, Tfasc_v1.28072-RA	0.00187
+MF	GO:0047274	galactinol-sucrose galactosyltransferase activity	Tfasc_v1.08046-RA, Tfasc_v1.17137-RA	0.00192
+MF	GO:0042910	xenobiotic transmembrane transporter activity	Tfasc_v1.00554-RA, Tfasc_v1.12527-RA, Tfasc_v1.12528-RA, Tfasc_v1.23735-RA	0.00315
+MF	GO:0090447	glycerol-3-phosphate 2-O-acyltransferase activity	Tfasc_v1.29585-RA, Tfasc_v1.29586-RA	0.00404
+MF	GO:0022857	transmembrane transporter activity	Tfasc_v1.00332-RA, Tfasc_v1.00336-RA, Tfasc_v1.00554-RA, Tfasc_v1.00773-RA, Tfasc_v1.01365-RA, Tfasc_v1.01957-RA, Tfasc_v1.07435-RA, Tfasc_v1.07651-RA, Tfasc_v1.08116-RA, Tfasc_v1.12527-RA, Tfasc_v1.12528-RA, Tfasc_v1.13683-RA, Tfasc_v1.14256-RA, Tfasc_v1.14790-RA, Tfasc_v1.15812-RA, Tfasc_v1.16316-RA, Tfasc_v1.17674-RA, Tfasc_v1.19392-RA, Tfasc_v1.20119-RA, Tfasc_v1.22083-RA, Tfasc_v1.22405-RA, Tfasc_v1.23297-RB, Tfasc_v1.23735-RA, Tfasc_v1.28079-RA	0.00416
+MF	GO:0045156	electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity	Tfasc_v1.25644-RA, Tfasc_v1.26194-RA	0.00797
+MF	GO:0010242	oxygen evolving activity	Tfasc_v1.17563-RA	0.00975
+MF	GO:0042284	sphingolipid delta-4 desaturase activity	Tfasc_v1.02513-RA	0.00975
+MF	GO:0016463	P-type zinc transporter activity	Tfasc_v1.08116-RA	0.00975
+MF	GO:0042301	phosphate ion binding	Tfasc_v1.25642-RA	0.00975
+MF	GO:0004032	alditol:NADP+ 1-oxidoreductase activity	Tfasc_v1.29569-RA, Tfasc_v1.29570-RA	0.01038
+MF	GO:0004467	long-chain fatty acid-CoA ligase activity	Tfasc_v1.07919-RA, Tfasc_v1.14176-RA	0.01168
+MF	GO:0008289	lipid binding	Tfasc_v1.09404-RA, Tfasc_v1.11764-RA, Tfasc_v1.11765-RA, Tfasc_v1.18691-RA, Tfasc_v1.22908-RA, Tfasc_v1.24974-RA, Tfasc_v1.27843-RA	0.01457
+MF	GO:0061634	alpha-D-xyloside xylohydrolase	Tfasc_v1.13705-RA	0.01941
+MF	GO:0016630	protochlorophyllide reductase activity	Tfasc_v1.07719-RA	0.01941
+MF	GO:0016788	hydrolase activity, acting on ester bonds	Tfasc_v1.04544-RA, Tfasc_v1.08893-RA, Tfasc_v1.09638-RA, Tfasc_v1.15824-RA, Tfasc_v1.17504-RA, Tfasc_v1.20070-RA, Tfasc_v1.24253-RA, Tfasc_v1.27376-RA, Tfasc_v1.27615-RA, Tfasc_v1.29585-RA, Tfasc_v1.29586-RA	0.02053
+MF	GO:0008422	beta-glucosidase activity	Tfasc_v1.16008-RA, Tfasc_v1.24963-RA	0.0283
+MF	GO:0047862	diisopropyl-fluorophosphatase activity	Tfasc_v1.04544-RA	0.02897
+MF	GO:0015105	arsenite transmembrane transporter activity	Tfasc_v1.01957-RA	0.02897
+MF	GO:0010295	(+)-abscisic acid 8'-hydroxylase activity	Tfasc_v1.28072-RA	0.02897
+MF	GO:0004781	sulfate adenylyltransferase (ATP) activity	Tfasc_v1.03296-RA	0.02897
+MF	GO:0043565	sequence-specific DNA binding	Tfasc_v1.02376-RA, Tfasc_v1.07523-RA, Tfasc_v1.10617-RA, Tfasc_v1.14071-RA, Tfasc_v1.14672-RA, Tfasc_v1.20607-RA, Tfasc_v1.22185-RA, Tfasc_v1.24176-RA, Tfasc_v1.24974-RA	0.03833
+MF	GO:0015292	uniporter activity	Tfasc_v1.19392-RA	0.03844
+MF	GO:0008137	NADH dehydrogenase (ubiquinone) activity	Tfasc_v1.15812-RA, Tfasc_v1.22083-RA	0.03875
+MF	GO:0004497	monooxygenase activity	Tfasc_v1.06011-RA, Tfasc_v1.12070-RA, Tfasc_v1.12471-RA, Tfasc_v1.16061-RA, Tfasc_v1.17160-RA, Tfasc_v1.17162-RA, Tfasc_v1.17165-RA, Tfasc_v1.17175-RA, Tfasc_v1.18354-RA, Tfasc_v1.19929-RA, Tfasc_v1.28072-RA, Tfasc_v1.28377-RA	0.04003
+MF	GO:0015297	antiporter activity	Tfasc_v1.00554-RA, Tfasc_v1.12527-RA, Tfasc_v1.12528-RA, Tfasc_v1.23735-RA	0.04633
+MF	GO:0016297	acyl-[acyl-carrier-protein] hydrolase activity	Tfasc_v1.17504-RA	0.04782
+MF	GO:0004566	beta-glucuronidase activity	Tfasc_v1.05238-RA	0.04782
+MF	GO:0080031	methyl salicylate esterase activity	Tfasc_v1.20070-RA	0.04782
+MF	GO:0080032	methyl jasmonate esterase activity	Tfasc_v1.20070-RA	0.04782
+MF	GO:0102420	sn-1-glycerol-3-phosphate C16:0-DCA-CoA acyl transferase activity	Tfasc_v1.29586-RA	0.04782
+MF	GO:0004366	glycerol-3-phosphate O-acyltransferase activity	Tfasc_v1.29586-RA	0.04782
+CC	GO:0009523	photosystem II	Tfasc_v1.01263-RA, Tfasc_v1.04301-RA, Tfasc_v1.05868-RA, Tfasc_v1.10775-RA, Tfasc_v1.11918-RA, Tfasc_v1.13901-RA, Tfasc_v1.17563-RA, Tfasc_v1.22502-RA, Tfasc_v1.24065-RA, Tfasc_v1.25642-RA, Tfasc_v1.25644-RA	1.3e-09
+CC	GO:0010287	plastoglobule	Tfasc_v1.04301-RA, Tfasc_v1.05868-RA, Tfasc_v1.06465-RA, Tfasc_v1.10775-RA, Tfasc_v1.22502-RA, Tfasc_v1.24065-RA	2.4e-06
+CC	GO:0009522	photosystem I	Tfasc_v1.04301-RA, Tfasc_v1.05868-RA, Tfasc_v1.10775-RA, Tfasc_v1.11896-RA, Tfasc_v1.22502-RA, Tfasc_v1.24065-RA	3.7e-06
+CC	GO:0009535	chloroplast thylakoid membrane	Tfasc_v1.04301-RA, Tfasc_v1.05868-RA, Tfasc_v1.06882-RA, Tfasc_v1.10761-RA, Tfasc_v1.10775-RA, Tfasc_v1.15812-RA, Tfasc_v1.22502-RA, Tfasc_v1.24065-RA, Tfasc_v1.25642-RA, Tfasc_v1.25644-RA, Tfasc_v1.26194-RA	5.6e-05
+CC	GO:0009654	photosystem II oxygen evolving complex	Tfasc_v1.01263-RA, Tfasc_v1.11918-RA, Tfasc_v1.17563-RA	0.0017
+CC	GO:0005886	plasma membrane	Tfasc_v1.00332-RA, Tfasc_v1.00336-RA, Tfasc_v1.00773-RA, Tfasc_v1.01365-RA, Tfasc_v1.01585-RA, Tfasc_v1.01589-RA, Tfasc_v1.03637-RA, Tfasc_v1.05511-RA, Tfasc_v1.07651-RA, Tfasc_v1.08116-RA, Tfasc_v1.09404-RA, Tfasc_v1.09405-RA, Tfasc_v1.11969-RA, Tfasc_v1.13683-RA, Tfasc_v1.14590-RA, Tfasc_v1.14790-RA, Tfasc_v1.16316-RA, Tfasc_v1.17142-RA, Tfasc_v1.21432-RA, Tfasc_v1.22405-RA, Tfasc_v1.23046-RA, Tfasc_v1.28079-RA, Tfasc_v1.29767-RA	0.0037
+CC	GO:0009517	PSII associated light-harvesting complex II	Tfasc_v1.10775-RA	0.0092
+CC	GO:1990246	uniplex complex	Tfasc_v1.19392-RA	0.0363

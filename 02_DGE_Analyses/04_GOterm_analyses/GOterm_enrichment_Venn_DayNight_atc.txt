@@ -1,0 +1,60 @@
+Category	ID	Term	Genes	adj_pval
+BP	GO:0010143	cutin biosynthetic process	Tfasc_v1.13108-RA, Tfasc_v1.26603-RA	0.0077
+BP	GO:0010099	regulation of photomorphogenesis	Tfasc_v1.03787-RA, Tfasc_v1.24331-RA	0.0077
+BP	GO:0090677	reversible differentiation	Tfasc_v1.11676-RA	0.0089
+BP	GO:0009270	response to humidity	Tfasc_v1.01719-RA	0.0089
+BP	GO:0010062	negative regulation of trichoblast fate specification	Tfasc_v1.09932-RA	0.0089
+BP	GO:0055085	transmembrane transport	Tfasc_v1.00620-RA, Tfasc_v1.01719-RA, Tfasc_v1.03137-RA, Tfasc_v1.03774-RA, Tfasc_v1.06188-RA, Tfasc_v1.07708-RA, Tfasc_v1.07732-RA, Tfasc_v1.08816-RA, Tfasc_v1.09474-RA, Tfasc_v1.09584-RA, Tfasc_v1.14167-RA, Tfasc_v1.16317-RA, Tfasc_v1.19338-RA, Tfasc_v1.20526-RA, Tfasc_v1.20765-RA, Tfasc_v1.24326-RA, Tfasc_v1.29515-RA	0.01
+BP	GO:0016131	brassinosteroid metabolic process	Tfasc_v1.02560-RA, Tfasc_v1.16061-RA	0.0176
+BP	GO:0006873	intracellular monoatomic ion homeostasis	Tfasc_v1.01719-RA, Tfasc_v1.07732-RA	0.0177
+BP	GO:0006315	homing of group II introns	Tfasc_v1.25183-RA	0.0177
+BP	GO:0050891	multicellular organismal-level water homeostasis	Tfasc_v1.01719-RA	0.0177
+BP	GO:0010268	brassinosteroid homeostasis	Tfasc_v1.02560-RA, Tfasc_v1.16061-RA	0.0191
+BP	GO:0019252	starch biosynthetic process	Tfasc_v1.08894-RA, Tfasc_v1.16595-RA	0.0206
+BP	GO:0006044	N-acetylglucosamine metabolic process	Tfasc_v1.22283-RA	0.0265
+BP	GO:0009056	catabolic process	Tfasc_v1.03216-RA, Tfasc_v1.08614-RA, Tfasc_v1.08621-RA, Tfasc_v1.13730-RA, Tfasc_v1.13985-RA, Tfasc_v1.18721-RA, Tfasc_v1.18821-RA, Tfasc_v1.21289-RA, Tfasc_v1.22361-RA, Tfasc_v1.25003-RA, Tfasc_v1.27818-RA, Tfasc_v1.29036-RA	0.0345
+BP	GO:0036444	calcium import into the mitochondrion	Tfasc_v1.07732-RA	0.0351
+BP	GO:0019408	dolichol biosynthetic process	Tfasc_v1.23336-RA	0.0351
+BP	GO:0032502	developmental process	Tfasc_v1.02560-RA, Tfasc_v1.03105-RA, Tfasc_v1.03311-RA, Tfasc_v1.03787-RA, Tfasc_v1.08988-RA, Tfasc_v1.09932-RA, Tfasc_v1.11676-RA, Tfasc_v1.13108-RA, Tfasc_v1.16595-RA, Tfasc_v1.18780-RA, Tfasc_v1.23156-RA, Tfasc_v1.24331-RA, Tfasc_v1.25003-RA, Tfasc_v1.25084-RA, Tfasc_v1.25903-RA, Tfasc_v1.26603-RA	0.0429
+BP	GO:0010021	amylopectin biosynthetic process	Tfasc_v1.16595-RA	0.0437
+BP	GO:0006552	leucine catabolic process	Tfasc_v1.13985-RA	0.0437
+BP	GO:0010037	response to carbon dioxide	Tfasc_v1.01719-RA	0.0437
+BP	GO:1905786	positive regulation of anaphase-promoting complex-dependent catabolic process	Tfasc_v1.21289-RA	0.0437
+BP	GO:0046506	sulfolipid biosynthetic process	Tfasc_v1.29686-RA	0.0437
+BP	GO:1904668	positive regulation of ubiquitin protein ligase activity	Tfasc_v1.21289-RA	0.0437
+BP	GO:0090615	mitochondrial mRNA processing	Tfasc_v1.25183-RA	0.0437
+BP	GO:1902456	regulation of stomatal opening	Tfasc_v1.01719-RA	0.0437
+MF	GO:0004373	glycogen (starch) synthase activity	Tfasc_v1.08894-RA, Tfasc_v1.16595-RA	0.0014
+MF	GO:0004575	sucrose alpha-glucosidase activity	Tfasc_v1.02421-RA, Tfasc_v1.02423-RA	0.0051
+MF	GO:0033201	alpha-1,4-glucan synthase activity	Tfasc_v1.16595-RA	0.0083
+MF	GO:0008115	sarcosine oxidase activity	Tfasc_v1.04910-RA	0.0166
+MF	GO:0042409	caffeoyl-CoA O-methyltransferase activity	Tfasc_v1.31828-RA	0.0166
+MF	GO:0004485	methylcrotonoyl-CoA carboxylase activity	Tfasc_v1.13985-RA	0.0166
+MF	GO:0045544	gibberellin 20-oxidase activity	Tfasc_v1.03311-RA	0.0248
+MF	GO:0045547	dehydrodolichyl diphosphate synthase activity	Tfasc_v1.23336-RA	0.0248
+MF	GO:0003830	beta-1,4-mannosylglycoprotein 4-beta-N-acetylglucosaminyltransferase activity	Tfasc_v1.22283-RA	0.0248
+MF	GO:0102391	decanoate-CoA ligase activity	Tfasc_v1.26603-RA	0.0248
+MF	GO:0009011	starch synthase activity	Tfasc_v1.16595-RA	0.0248
+MF	GO:0016762	xyloglucan:xyloglucosyl transferase activity	Tfasc_v1.02227-RA, Tfasc_v1.08162-RA	0.0291
+MF	GO:0005542	folic acid binding	Tfasc_v1.01059-RA	0.0329
+MF	GO:0016621	cinnamoyl-CoA reductase activity	Tfasc_v1.05086-RA	0.0329
+MF	GO:0016767	geranylgeranyl-diphosphate geranylgeranyltransferase activity	Tfasc_v1.14385-RA	0.0329
+MF	GO:0046905	15-cis-phytoene synthase activity	Tfasc_v1.14385-RA	0.0329
+MF	GO:0015292	uniporter activity	Tfasc_v1.07732-RA	0.0329
+MF	GO:0004310	farnesyl-diphosphate farnesyltransferase activity	Tfasc_v1.14385-RA	0.041
+MF	GO:0051996	squalene synthase activity	Tfasc_v1.14385-RA	0.041
+MF	GO:1990757	ubiquitin ligase activator activity	Tfasc_v1.21289-RA	0.041
+MF	GO:0020037	heme binding	Tfasc_v1.02560-RA, Tfasc_v1.15087-RA, Tfasc_v1.16061-RA, Tfasc_v1.17157-RA, Tfasc_v1.21155-RA, Tfasc_v1.25003-RA, Tfasc_v1.27818-RA	0.0484
+MF	GO:0004356	glutamate-ammonia ligase activity	Tfasc_v1.28774-RA	0.049
+MF	GO:0010997	anaphase-promoting complex binding	Tfasc_v1.21289-RA	0.049
+CC	GO:0009501	amyloplast	Tfasc_v1.08894-RA, Tfasc_v1.16595-RA	0.006
+CC	GO:1905202	methylcrotonoyl-CoA carboxylase complex	Tfasc_v1.13985-RA	0.0084
+CC	GO:0016020	membrane	Tfasc_v1.00188-RA, Tfasc_v1.01719-RA, Tfasc_v1.02166-RA, Tfasc_v1.03105-RA, Tfasc_v1.03774-RA, Tfasc_v1.04910-RA, Tfasc_v1.06513-RA, Tfasc_v1.07238-RA, Tfasc_v1.07708-RA, Tfasc_v1.07732-RA, Tfasc_v1.08975-RA, Tfasc_v1.09584-RA, Tfasc_v1.11695-RA, Tfasc_v1.14074-RA, Tfasc_v1.14123-RA, Tfasc_v1.14167-RA, Tfasc_v1.15087-RA, Tfasc_v1.16246-RA, Tfasc_v1.16317-RA, Tfasc_v1.18147-RA, Tfasc_v1.18536-RA, Tfasc_v1.18821-RA, Tfasc_v1.21155-RA, Tfasc_v1.21246-RA, Tfasc_v1.21403-RA, Tfasc_v1.22708-RA, Tfasc_v1.22711-RA, Tfasc_v1.22763-RA, Tfasc_v1.24853-RA, Tfasc_v1.25084-RA, Tfasc_v1.25996-RA, Tfasc_v1.26603-RA, Tfasc_v1.27296-RA, Tfasc_v1.28707-RA, Tfasc_v1.29515-RA, Tfasc_v1.29633-RA, Tfasc_v1.30132-RA	0.0154
+CC	GO:1904423	dehydrodolichyl diphosphate synthase complex	Tfasc_v1.23336-RA	0.0167
+CC	GO:0031972	chloroplast intermembrane space	Tfasc_v1.11676-RA	0.0167
+CC	GO:0000506	glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex	Tfasc_v1.03105-RA	0.0167
+CC	GO:0000325	plant-type vacuole	Tfasc_v1.02166-RA, Tfasc_v1.09584-RA, Tfasc_v1.14167-RA	0.0309
+CC	GO:1990246	uniplex complex	Tfasc_v1.07732-RA	0.0332
+CC	GO:0044613	nuclear pore central transport channel	Tfasc_v1.01066-RA	0.0413
+CC	GO:0009506	plasmodesma	Tfasc_v1.00188-RA, Tfasc_v1.03774-RA, Tfasc_v1.08975-RA, Tfasc_v1.18421-RA, Tfasc_v1.22708-RA, Tfasc_v1.25003-RA	0.0453
+CC	GO:0005884	actin filament	Tfasc_v1.16593-RA	0.0494

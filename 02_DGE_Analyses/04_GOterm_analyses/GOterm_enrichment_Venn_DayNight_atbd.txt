@@ -1,0 +1,30 @@
+Category	ID	Term	Genes	adj_pval
+BP	GO:0030187	melatonin biosynthetic process	Tfasc_v1.28194-RA	0.0025
+BP	GO:0051555	flavonol biosynthetic process	Tfasc_v1.28194-RA	0.0033
+BP	GO:0009800	cinnamic acid biosynthetic process	Tfasc_v1.05549-RB	0.005
+BP	GO:0006559	L-phenylalanine catabolic process	Tfasc_v1.05549-RB	0.0075
+BP	GO:0006880	intracellular sequestering of iron ion	Tfasc_v1.29705-RA	0.0084
+BP	GO:0009773	photosynthetic electron transport in photosystem I	Tfasc_v1.25253-RA	0.0108
+BP	GO:0061408	positive regulation of transcription from RNA polymerase II promoter in response to heat stress	Tfasc_v1.24176-RA	0.0108
+BP	GO:0009809	lignin biosynthetic process	Tfasc_v1.28194-RA	0.0142
+BP	GO:0071586	CAAX-box protein processing	Tfasc_v1.02512-RA	0.0142
+BP	GO:0080167	response to karrikin	Tfasc_v1.08046-RA	0.0224
+BP	GO:0015995	chlorophyll biosynthetic process	Tfasc_v1.22694-RA	0.0241
+MF	GO:0033799	myricetin 3'-O-methyltransferase activity	Tfasc_v1.28194-RA	0.00093
+MF	GO:0017096	acetylserotonin O-methyltransferase activity	Tfasc_v1.28194-RA	0.00093
+MF	GO:0030755	quercetin 3-O-methyltransferase activity	Tfasc_v1.28194-RA	0.00093
+MF	GO:0047763	caffeate O-methyltransferase activity	Tfasc_v1.28194-RA	0.00093
+MF	GO:0030744	luteolin O-methyltransferase activity	Tfasc_v1.28194-RA	0.00093
+MF	GO:0010277	chlorophyllide a oxygenase [overall] activity	Tfasc_v1.22694-RA	0.00465
+MF	GO:0045548	phenylalanine ammonia-lyase activity	Tfasc_v1.05549-RB	0.00557
+MF	GO:0047274	galactinol-sucrose galactosyltransferase activity	Tfasc_v1.08046-RA	0.0065
+MF	GO:0008199	ferric iron binding	Tfasc_v1.29705-RA	0.00835
+MF	GO:0051213	dioxygenase activity	Tfasc_v1.00249-RA, Tfasc_v1.27880-RB	0.01063
+MF	GO:0008198	ferrous iron binding	Tfasc_v1.29705-RA	0.01388
+MF	GO:0051537	2 iron, 2 sulfur cluster binding	Tfasc_v1.22694-RA	0.033
+MF	GO:0004322	ferroxidase activity	Tfasc_v1.29705-RA	0.0339
+MF	GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding	Tfasc_v1.24176-RA	0.04823
+CC	GO:0010598	NAD(P)H dehydrogenase complex (plastoquinone)	Tfasc_v1.25253-RA	0.0078
+CC	GO:0009535	chloroplast thylakoid membrane	Tfasc_v1.22694-RA, Tfasc_v1.25253-RA	0.0143
+CC	GO:0009506	plasmodesma	Tfasc_v1.08046-RA, Tfasc_v1.28194-RA	0.0231
+CC	GO:0009706	chloroplast inner membrane	Tfasc_v1.22694-RA	0.0439

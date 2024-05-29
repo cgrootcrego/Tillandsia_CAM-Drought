@@ -1,0 +1,48 @@
+Category	ID	Term	Genes	adj_pval
+BP	GO:0042026	protein refolding	Tfasc_v1.21585-RA, Tfasc_v1.27981-RA	0.003
+BP	GO:0051085	chaperone cofactor-dependent protein refolding	Tfasc_v1.18295-RA, Tfasc_v1.27981-RA	0.0039
+BP	GO:0046345	abscisic acid catabolic process	Tfasc_v1.05655-RA	0.0048
+BP	GO:0015808	L-alanine transport	Tfasc_v1.09682-RA	0.0048
+BP	GO:1903826	L-arginine transmembrane transport	Tfasc_v1.09682-RA	0.0071
+BP	GO:0015813	L-glutamate transmembrane transport	Tfasc_v1.09682-RA	0.0071
+BP	GO:0045487	gibberellin catabolic process	Tfasc_v1.16315-RA	0.0142
+BP	GO:1903401	L-lysine transmembrane transport	Tfasc_v1.09682-RA	0.0142
+BP	GO:0015689	molybdate ion transport	Tfasc_v1.21503-RA	0.0189
+BP	GO:0010214	seed coat development	Tfasc_v1.11891-RA	0.0236
+BP	GO:0031408	oxylipin biosynthetic process	Tfasc_v1.08463-RA	0.0283
+BP	GO:0061408	positive regulation of transcription from RNA polymerase II promoter in response to heat stress	Tfasc_v1.11745-RA	0.0306
+BP	GO:0009231	riboflavin biosynthetic process	Tfasc_v1.29628-RA	0.0329
+BP	GO:0080156	mitochondrial mRNA modification	Tfasc_v1.08861-RA	0.0329
+BP	GO:0033673	negative regulation of kinase activity	Tfasc_v1.05675-RA	0.0398
+BP	GO:0000105	histidine biosynthetic process	Tfasc_v1.26878-RA	0.0398
+BP	GO:0050821	protein stabilization	Tfasc_v1.28263-RA	0.0421
+BP	GO:0006833	water transport	Tfasc_v1.28863-RA	0.0467
+BP	GO:0009395	phospholipid catabolic process	Tfasc_v1.01537-RA	0.049
+MF	GO:0004424	imidazoleglycerol-phosphate dehydratase activity	Tfasc_v1.26878-RA	0.0022
+MF	GO:0080047	GDP-L-galactose phosphorylase activity	Tfasc_v1.22589-RA	0.0022
+MF	GO:0051082	unfolded protein binding	Tfasc_v1.18295-RA, Tfasc_v1.27981-RA, Tfasc_v1.28263-RA	0.0023
+MF	GO:0015180	L-alanine transmembrane transporter activity	Tfasc_v1.09682-RA	0.0043
+MF	GO:0009011	starch synthase activity	Tfasc_v1.09430-RA	0.0065
+MF	GO:0080048	GDP-D-glucose phosphorylase activity	Tfasc_v1.22589-RA	0.0065
+MF	GO:0010295	(+)-abscisic acid 8'-hydroxylase activity	Tfasc_v1.05655-RA	0.0065
+MF	GO:0008686	3,4-dihydroxy-2-butanone-4-phosphate synthase activity	Tfasc_v1.29628-RA	0.0086
+MF	GO:0003935	GTP cyclohydrolase II activity	Tfasc_v1.29628-RA	0.0086
+MF	GO:0043878	glyceraldehyde-3-phosphate dehydrogenase (NAD+) (non-phosphorylating) activity	Tfasc_v1.24043-RA	0.0086
+MF	GO:0052634	C-19 gibberellin 2-beta-dioxygenase activity	Tfasc_v1.16315-RA	0.0107
+MF	GO:0004930	G protein-coupled receptor activity	Tfasc_v1.24978-RA	0.0107
+MF	GO:0015189	L-lysine transmembrane transporter activity	Tfasc_v1.09682-RA	0.0129
+MF	GO:0004373	glycogen (starch) synthase activity	Tfasc_v1.09430-RA	0.015
+MF	GO:0019210	kinase inhibitor activity	Tfasc_v1.05675-RA	0.015
+MF	GO:0015098	molybdate ion transmembrane transporter activity	Tfasc_v1.21503-RA	0.0171
+MF	GO:0004029	aldehyde dehydrogenase (NAD+) activity	Tfasc_v1.24043-RA	0.0192
+MF	GO:0008970	phospholipase A1 activity	Tfasc_v1.11891-RA	0.0235
+MF	GO:0005544	calcium-dependent phospholipid binding	Tfasc_v1.01379-RA	0.0298
+MF	GO:0015250	water channel activity	Tfasc_v1.28863-RA	0.034
+MF	GO:0051787	misfolded protein binding	Tfasc_v1.27981-RA	0.0423
+MF	GO:0044183	protein folding chaperone	Tfasc_v1.27981-RA	0.0423
+MF	GO:0051753	mannan synthase activity	Tfasc_v1.20375-RA	0.0464
+MF	GO:0015276	ligand-gated monoatomic ion channel activity	Tfasc_v1.24978-RA	0.0464
+CC	GO:1990879	CST complex	Tfasc_v1.01537-RA	0.002
+CC	GO:0009986	cell surface	Tfasc_v1.28263-RA	0.016
+CC	GO:0048471	perinuclear region of cytoplasm	Tfasc_v1.28263-RA	0.02
+CC	GO:0009501	amyloplast	Tfasc_v1.09430-RA	0.028

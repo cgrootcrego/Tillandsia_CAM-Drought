@@ -1,0 +1,3 @@
+Category	ID	Term	Genes	adj_pval
+BP	GO:0010228	vegetative to reproductive phase transition of meristem	Tfasc_v1.06312-RB	0.008
+MF	GO:0008168	methyltransferase activity	Tfasc_v1.07870-RA	0.022

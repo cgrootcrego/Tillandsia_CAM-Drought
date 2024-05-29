@@ -1,0 +1,15 @@
+Category	ID	Term	Genes	adj_pval
+BP	GO:0006470	protein dephosphorylation	Tfasc_v1.00053-RA, Tfasc_v1.02959-RA, Tfasc_v1.02960-RA	0.00017
+BP	GO:0009554	megasporogenesis	Tfasc_v1.06555-RA	0.00103
+BP	GO:0048205	COPI coating of Golgi vesicle	Tfasc_v1.06549-RA	0.00258
+BP	GO:0009956	radial pattern formation	Tfasc_v1.06555-RA	0.00309
+BP	GO:0009934	regulation of meristem structural organization	Tfasc_v1.06555-RA	0.00618
+BP	GO:0061408	positive regulation of transcription from RNA polymerase II promoter in response to heat stress	Tfasc_v1.16271-RA	0.00669
+BP	GO:0010305	leaf vascular tissue pattern formation	Tfasc_v1.06555-RA	0.00669
+BP	GO:0010015	root morphogenesis	Tfasc_v1.06555-RA	0.02803
+BP	GO:0043547	positive regulation of GTPase activity	Tfasc_v1.06549-RA	0.03556
+MF	GO:0043169	cation binding	Tfasc_v1.00053-RA, Tfasc_v1.02959-RA, Tfasc_v1.02960-RA, Tfasc_v1.05873-RA, Tfasc_v1.06549-RA	0.0073
+MF	GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding	Tfasc_v1.16271-RA	0.018
+MF	GO:0005096	GTPase activator activity	Tfasc_v1.06549-RA	0.0265
+CC	GO:0005634	nucleus	Tfasc_v1.00053-RA, Tfasc_v1.02959-RA, Tfasc_v1.02960-RA, Tfasc_v1.06575-RA, Tfasc_v1.16271-RA	0.024
+CC	GO:0005829	cytosol	Tfasc_v1.00053-RA, Tfasc_v1.02959-RA, Tfasc_v1.02960-RA	0.031

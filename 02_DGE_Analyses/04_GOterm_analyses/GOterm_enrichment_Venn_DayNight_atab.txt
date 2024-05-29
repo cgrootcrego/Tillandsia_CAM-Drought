@@ -1,0 +1,101 @@
+Category	ID	Term	Genes	adj_pval
+BP	GO:1901002	positive regulation of response to salt stress	Tfasc_v1.15453-RA, Tfasc_v1.15454-RA, Tfasc_v1.19302-RA, Tfasc_v1.19305-RA, Tfasc_v1.24491-RA, Tfasc_v1.27908-RA	3.9e-07
+BP	GO:1900150	regulation of defense response to fungus	Tfasc_v1.15453-RA, Tfasc_v1.15454-RA, Tfasc_v1.22595-RA, Tfasc_v1.30112-RA	0.00017
+BP	GO:0062055	photosynthetic state transition	Tfasc_v1.26057-RA, Tfasc_v1.26059-RA	0.00039
+BP	GO:0070413	trehalose metabolism in response to stress	Tfasc_v1.02216-RA, Tfasc_v1.05016-RA, Tfasc_v1.09493-RB, Tfasc_v1.19474-RA	0.00046
+BP	GO:0031952	regulation of protein autophosphorylation	Tfasc_v1.13404-RA, Tfasc_v1.13405-RA, Tfasc_v1.24491-RA	0.00083
+BP	GO:0071492	cellular response to UV-A	Tfasc_v1.05902-RA, Tfasc_v1.05905-RA	0.00116
+BP	GO:0071486	cellular response to high light intensity	Tfasc_v1.05902-RA, Tfasc_v1.05905-RA	0.00116
+BP	GO:0030187	melatonin biosynthetic process	Tfasc_v1.26057-RA, Tfasc_v1.26059-RA	0.00116
+BP	GO:0009231	riboflavin biosynthetic process	Tfasc_v1.09863-RA, Tfasc_v1.18705-RA, Tfasc_v1.18707-RA	0.00238
+BP	GO:0007178	transmembrane receptor protein serine/threonine kinase signaling pathway	Tfasc_v1.12888-RA, Tfasc_v1.18221-RA, Tfasc_v1.18786-RA, Tfasc_v1.25627-RA, Tfasc_v1.25628-RA, Tfasc_v1.27618-RA, Tfasc_v1.30670-RA	0.00486
+BP	GO:0002221	pattern recognition receptor signaling pathway	Tfasc_v1.22595-RA, Tfasc_v1.30112-RA	0.00556
+BP	GO:0035672	oligopeptide transmembrane transport	Tfasc_v1.00748-RA, Tfasc_v1.02223-RA, Tfasc_v1.18508-RA, Tfasc_v1.24158-RA	0.00595
+BP	GO:0009611	response to wounding	Tfasc_v1.05902-RA, Tfasc_v1.05905-RA, Tfasc_v1.16205-RA, Tfasc_v1.27908-RA	0.00595
+BP	GO:1900424	regulation of defense response to bacterium	Tfasc_v1.22595-RA, Tfasc_v1.30112-RA	0.00768
+BP	GO:0045893	positive regulation of DNA-templated transcription	Tfasc_v1.14071-RA, Tfasc_v1.15453-RA, Tfasc_v1.15454-RA, Tfasc_v1.16205-RA, Tfasc_v1.19302-RA, Tfasc_v1.19305-RA, Tfasc_v1.28196-RB, Tfasc_v1.28537-RA	0.00777
+BP	GO:1902584	positive regulation of response to water deprivation	Tfasc_v1.15453-RA, Tfasc_v1.15454-RA	0.01011
+BP	GO:0005992	trehalose biosynthetic process	Tfasc_v1.02216-RA, Tfasc_v1.05016-RA, Tfasc_v1.09493-RB, Tfasc_v1.19474-RA	0.01098
+BP	GO:0030163	protein catabolic process	Tfasc_v1.04960-RA, Tfasc_v1.09135-RA, Tfasc_v1.16471-RA, Tfasc_v1.17195-RA, Tfasc_v1.22641-RA, Tfasc_v1.28525-RA, Tfasc_v1.29666-RA	0.01823
+BP	GO:0009094	L-phenylalanine biosynthetic process	Tfasc_v1.07026-RA, Tfasc_v1.13163-RA	0.0191
+BP	GO:0032875	regulation of DNA endoreduplication	Tfasc_v1.14327-RA, Tfasc_v1.29309-RA	0.0191
+BP	GO:0060860	regulation of floral organ abscission	Tfasc_v1.08084-RA	0.0198
+BP	GO:0010960	magnesium ion homeostasis	Tfasc_v1.11639-RA	0.0198
+BP	GO:0009413	response to flooding	Tfasc_v1.04427-RA	0.0198
+BP	GO:0010121	arginine catabolic process to proline via ornithine	Tfasc_v1.04427-RA	0.0198
+BP	GO:0001714	endodermal cell fate specification	Tfasc_v1.01143-RA	0.0198
+BP	GO:0030418	nicotianamine biosynthetic process	Tfasc_v1.01581-RA	0.0198
+BP	GO:0080027	response to herbivore	Tfasc_v1.16205-RA	0.0198
+BP	GO:0097548	seed abscission	Tfasc_v1.08084-RA	0.0198
+BP	GO:1902065	response to L-glutamate	Tfasc_v1.27908-RA	0.0198
+BP	GO:0006593	ornithine catabolic process	Tfasc_v1.04427-RA	0.0198
+BP	GO:0019544	arginine catabolic process to glutamate	Tfasc_v1.04427-RA	0.0198
+BP	GO:0080148	negative regulation of response to water deprivation	Tfasc_v1.25807-RA	0.0198
+BP	GO:0080136	priming of cellular response to stress	Tfasc_v1.27908-RA	0.0198
+BP	GO:0010325	raffinose family oligosaccharide biosynthetic process	Tfasc_v1.00808-RA	0.0198
+BP	GO:0006535	cysteine biosynthetic process from serine	Tfasc_v1.19945-RA, Tfasc_v1.22892-RA	0.02262
+BP	GO:0042372	phylloquinone biosynthetic process	Tfasc_v1.01665-RA, Tfasc_v1.20276-RA	0.02639
+BP	GO:0009056	catabolic process	Tfasc_v1.00808-RA, Tfasc_v1.03610-RA, Tfasc_v1.04356-RA, Tfasc_v1.04427-RA, Tfasc_v1.04960-RA, Tfasc_v1.06031-RA, Tfasc_v1.07996-RA, Tfasc_v1.08873-RA, Tfasc_v1.09135-RA, Tfasc_v1.09258-RA, Tfasc_v1.09332-RA, Tfasc_v1.11851-RA, Tfasc_v1.14483-RA, Tfasc_v1.14914-RA, Tfasc_v1.15054-RA, Tfasc_v1.16471-RA, Tfasc_v1.17195-RA, Tfasc_v1.18400-RA, Tfasc_v1.19496-RA, Tfasc_v1.20239-RA, Tfasc_v1.20954-RA, Tfasc_v1.22585-RA, Tfasc_v1.22641-RA, Tfasc_v1.26547-RA, Tfasc_v1.27353-RA, Tfasc_v1.28525-RA, Tfasc_v1.29666-RA	0.02641
+BP	GO:0000278	mitotic cell cycle	Tfasc_v1.01985-RA, Tfasc_v1.02550-RA, Tfasc_v1.08865-RA, Tfasc_v1.22595-RA, Tfasc_v1.23089-RA, Tfasc_v1.27669-RA, Tfasc_v1.30112-RA	0.02731
+BP	GO:0006468	protein phosphorylation	Tfasc_v1.02266-RA, Tfasc_v1.02938-RA, Tfasc_v1.04427-RA, Tfasc_v1.05473-RA, Tfasc_v1.06058-RA, Tfasc_v1.09639-RA, Tfasc_v1.09673-RA, Tfasc_v1.12888-RA, Tfasc_v1.13404-RA, Tfasc_v1.13405-RA, Tfasc_v1.17142-RA, Tfasc_v1.18221-RA, Tfasc_v1.18786-RA, Tfasc_v1.18855-RA, Tfasc_v1.21571-RA, Tfasc_v1.21696-RA, Tfasc_v1.22595-RA, Tfasc_v1.22860-RA, Tfasc_v1.23046-RA, Tfasc_v1.23089-RA, Tfasc_v1.23419-RA, Tfasc_v1.24491-RA, Tfasc_v1.24958-RA, Tfasc_v1.25137-RA, Tfasc_v1.25627-RA, Tfasc_v1.25628-RA, Tfasc_v1.25810-RA, Tfasc_v1.25852-RA, Tfasc_v1.27618-RA, Tfasc_v1.27619-RA, Tfasc_v1.27708-RA, Tfasc_v1.27958-RB, Tfasc_v1.28608-RA, Tfasc_v1.29930-RA, Tfasc_v1.30112-RA, Tfasc_v1.30670-RA, Tfasc_v1.31220-RA, Tfasc_v1.31228-RA, Tfasc_v1.31230-RA	0.02981
+BP	GO:0080156	mitochondrial mRNA modification	Tfasc_v1.07975-RA, Tfasc_v1.29310-RA	0.03039
+BP	GO:0009414	response to water deprivation	Tfasc_v1.04427-RA, Tfasc_v1.15453-RA, Tfasc_v1.15454-RA, Tfasc_v1.17135-RA, Tfasc_v1.17137-RA, Tfasc_v1.17140-RA, Tfasc_v1.25807-RA, Tfasc_v1.27908-RA	0.03613
+BP	GO:0043666	regulation of phosphoprotein phosphatase activity	Tfasc_v1.02215-RA, Tfasc_v1.13404-RA, Tfasc_v1.13405-RA, Tfasc_v1.16372-RA, Tfasc_v1.24491-RA	0.0385
+BP	GO:0090610	bundle sheath cell fate specification	Tfasc_v1.01143-RA	0.03921
+BP	GO:0010120	camalexin biosynthetic process	Tfasc_v1.27908-RA	0.03921
+BP	GO:0032194	ubiquinone biosynthetic process via 3,4-dihydroxy-5-polyprenylbenzoate	Tfasc_v1.20276-RA	0.03921
+BP	GO:0042218	1-aminocyclopropane-1-carboxylate biosynthetic process	Tfasc_v1.01748-RA	0.03921
+BP	GO:0050826	response to freezing	Tfasc_v1.27908-RA	0.03921
+BP	GO:0044778	meiotic DNA integrity checkpoint signaling	Tfasc_v1.02550-RA	0.03921
+BP	GO:0106167	extracellular ATP signaling	Tfasc_v1.16205-RA	0.03921
+BP	GO:0032780	negative regulation of ATP-dependent activity	Tfasc_v1.29958-RA	0.03921
+BP	GO:0000024	maltose biosynthetic process	Tfasc_v1.27353-RA	0.03921
+BP	GO:0034605	cellular response to heat	Tfasc_v1.03304-RA, Tfasc_v1.05653-RA, Tfasc_v1.05654-RA	0.0416
+BP	GO:0019722	calcium-mediated signaling	Tfasc_v1.20468-RA, Tfasc_v1.21767-RA	0.0437
+BP	GO:0016125	sterol metabolic process	Tfasc_v1.19374-RA, Tfasc_v1.19375-RA, Tfasc_v1.19379-RA, Tfasc_v1.21912-RA	0.04413
+BP	GO:0045454	cell redox homeostasis	Tfasc_v1.00424-RA, Tfasc_v1.08863-RA, Tfasc_v1.09628-RA, Tfasc_v1.16204-RA, Tfasc_v1.20353-RA, Tfasc_v1.26961-RA	0.04609
+MF	GO:0043565	sequence-specific DNA binding	Tfasc_v1.01143-RA, Tfasc_v1.02437-RA, Tfasc_v1.02439-RA, Tfasc_v1.05653-RA, Tfasc_v1.05654-RA, Tfasc_v1.08150-RA, Tfasc_v1.09340-RA, Tfasc_v1.12384-RA, Tfasc_v1.13153-RA, Tfasc_v1.14071-RA, Tfasc_v1.14172-RA, Tfasc_v1.15453-RA, Tfasc_v1.15454-RA, Tfasc_v1.21767-RA, Tfasc_v1.22892-RA, Tfasc_v1.24082-RA, Tfasc_v1.24182-RA, Tfasc_v1.25013-RA, Tfasc_v1.25311-RA, Tfasc_v1.26791-RA, Tfasc_v1.28196-RB, Tfasc_v1.32018-RA	0.00021
+MF	GO:0047274	galactinol-sucrose galactosyltransferase activity	Tfasc_v1.17135-RA, Tfasc_v1.17137-RA, Tfasc_v1.17140-RA	0.00023
+MF	GO:0004468	lysine N-acetyltransferase activity, acting on acetyl phosphate as donor	Tfasc_v1.26057-RA, Tfasc_v1.26059-RA	0.00037
+MF	GO:0004059	aralkylamine N-acetyltransferase activity	Tfasc_v1.26057-RA, Tfasc_v1.26059-RA	0.00037
+MF	GO:0003700	DNA-binding transcription factor activity	Tfasc_v1.01143-RA, Tfasc_v1.02437-RA, Tfasc_v1.02439-RA, Tfasc_v1.03880-RA, Tfasc_v1.04959-RA, Tfasc_v1.05653-RA, Tfasc_v1.08084-RA, Tfasc_v1.08150-RA, Tfasc_v1.10916-RA, Tfasc_v1.12384-RA, Tfasc_v1.13153-RA, Tfasc_v1.14172-RA, Tfasc_v1.14452-RA, Tfasc_v1.16050-RA, Tfasc_v1.21767-RA, Tfasc_v1.22892-RA, Tfasc_v1.24082-RA, Tfasc_v1.24182-RA, Tfasc_v1.25013-RA, Tfasc_v1.25311-RA, Tfasc_v1.26791-RA, Tfasc_v1.28196-RB, Tfasc_v1.28537-RA, Tfasc_v1.30572-RA, Tfasc_v1.32018-RA	0.00099
+MF	GO:0072542	protein phosphatase activator activity	Tfasc_v1.13404-RA, Tfasc_v1.13405-RA, Tfasc_v1.24491-RA	0.00103
+MF	GO:0035673	oligopeptide transmembrane transporter activity	Tfasc_v1.00748-RA, Tfasc_v1.02223-RA, Tfasc_v1.18508-RA, Tfasc_v1.24151-RA, Tfasc_v1.24158-RA	0.00201
+MF	GO:0003935	GTP cyclohydrolase II activity	Tfasc_v1.18705-RA, Tfasc_v1.18707-RA	0.00215
+MF	GO:0008686	3,4-dihydroxy-2-butanone-4-phosphate synthase activity	Tfasc_v1.18705-RA, Tfasc_v1.18707-RA	0.00215
+MF	GO:0033897	ribonuclease T2 activity	Tfasc_v1.18400-RA, Tfasc_v1.18401-RA	0.00354
+MF	GO:0047769	arogenate dehydratase activity	Tfasc_v1.07026-RA, Tfasc_v1.13163-RA	0.00725
+MF	GO:0005509	calcium ion binding	Tfasc_v1.01405-RA, Tfasc_v1.02266-RA, Tfasc_v1.02938-RA, Tfasc_v1.03334-RA, Tfasc_v1.05969-RA, Tfasc_v1.10944-RA, Tfasc_v1.12347-RA, Tfasc_v1.20468-RA, Tfasc_v1.24958-RA, Tfasc_v1.25853-RA, Tfasc_v1.27431-RA, Tfasc_v1.27669-RA, Tfasc_v1.30270-RA	0.00932
+MF	GO:0080043	quercetin 3-O-glucosyltransferase activity	Tfasc_v1.14633-RA, Tfasc_v1.14635-RA, Tfasc_v1.16112-RA	0.00936
+MF	GO:0080044	quercetin 7-O-glucosyltransferase activity	Tfasc_v1.14633-RA, Tfasc_v1.14635-RA, Tfasc_v1.16112-RA	0.00936
+MF	GO:0047372	acylglycerol lipase activity	Tfasc_v1.02374-RA, Tfasc_v1.20239-RA	0.00954
+MF	GO:0004664	prephenate dehydratase activity	Tfasc_v1.07026-RA, Tfasc_v1.13163-RA	0.00954
+MF	GO:0015333	peptide:proton symporter activity	Tfasc_v1.00748-RA, Tfasc_v1.18508-RA, Tfasc_v1.24151-RA, Tfasc_v1.24158-RA	0.00993
+MF	GO:0004675	transmembrane receptor protein serine/threonine kinase activity	Tfasc_v1.12888-RA, Tfasc_v1.18221-RA, Tfasc_v1.18786-RA, Tfasc_v1.25627-RA, Tfasc_v1.25628-RA, Tfasc_v1.27618-RA, Tfasc_v1.27619-RA, Tfasc_v1.30670-RA	0.01413
+MF	GO:0008398	sterol 14-demethylase activity	Tfasc_v1.21912-RA	0.01921
+MF	GO:0052635	C-20 gibberellin 2-beta-dioxygenase activity	Tfasc_v1.03610-RA	0.01921
+MF	GO:0048307	ferredoxin-nitrite reductase activity	Tfasc_v1.08668-RA	0.01921
+MF	GO:0045431	flavonol synthase activity	Tfasc_v1.08658-RA	0.01921
+MF	GO:0050155	ornithine(lysine) transaminase activity	Tfasc_v1.04427-RA	0.01921
+MF	GO:0042030	ATPase inhibitor activity	Tfasc_v1.29958-RA	0.01921
+MF	GO:0004587	ornithine-oxo-acid transaminase activity	Tfasc_v1.04427-RA	0.01921
+MF	GO:0010331	gibberellin binding	Tfasc_v1.00808-RA	0.01921
+MF	GO:0004371	glycerone kinase activity	Tfasc_v1.19496-RA	0.01921
+MF	GO:0030410	nicotianamine synthase activity	Tfasc_v1.01581-RA	0.01921
+MF	GO:1990534	thermospermine oxidase activity	Tfasc_v1.09332-RA	0.01921
+MF	GO:0048531	beta-1,3-galactosyltransferase activity	Tfasc_v1.05615-RA	0.01921
+MF	GO:0004044	amidophosphoribosyltransferase activity	Tfasc_v1.18269-RA	0.01921
+MF	GO:0016298	lipase activity	Tfasc_v1.02374-RA, Tfasc_v1.16079-RA, Tfasc_v1.20239-RA, Tfasc_v1.23588-RA, Tfasc_v1.23589-RA	0.02117
+MF	GO:0020037	heme binding	Tfasc_v1.07558-RA, Tfasc_v1.07562-RA, Tfasc_v1.07798-RA, Tfasc_v1.07807-RA, Tfasc_v1.07808-RA, Tfasc_v1.08668-RA, Tfasc_v1.16471-RA, Tfasc_v1.16472-RA, Tfasc_v1.19374-RA, Tfasc_v1.19375-RA, Tfasc_v1.19379-RA, Tfasc_v1.21912-RA, Tfasc_v1.22585-RA, Tfasc_v1.29754-RA	0.02156
+MF	GO:0016762	xyloglucan:xyloglucosyl transferase activity	Tfasc_v1.07028-RA, Tfasc_v1.07031-RA, Tfasc_v1.08171-RA	0.0231
+MF	GO:0016846	carbon-sulfur lyase activity	Tfasc_v1.01748-RA, Tfasc_v1.09402-RA, Tfasc_v1.17133-RA	0.02862
+MF	GO:0005506	iron ion binding	Tfasc_v1.07558-RA, Tfasc_v1.07562-RA, Tfasc_v1.07798-RA, Tfasc_v1.07807-RA, Tfasc_v1.07808-RA, Tfasc_v1.16471-RA, Tfasc_v1.16472-RA, Tfasc_v1.19374-RA, Tfasc_v1.19375-RA, Tfasc_v1.19379-RA, Tfasc_v1.21912-RA, Tfasc_v1.29754-RA	0.03411
+MF	GO:0061522	1,4-dihydroxy-2-naphthoyl-CoA thioesterase activity	Tfasc_v1.01665-RA	0.03805
+MF	GO:0047172	shikimate O-hydroxycinnamoyltransferase activity	Tfasc_v1.07983-RA	0.03805
+MF	GO:0052903	N1-acetylspermine:oxygen oxidoreductase (3-acetamidopropanal-forming) activity	Tfasc_v1.09332-RA	0.03805
+MF	GO:0016847	1-aminocyclopropane-1-carboxylate synthase activity	Tfasc_v1.01748-RA	0.03805
+MF	GO:0003993	acid phosphatase activity	Tfasc_v1.17482-RA, Tfasc_v1.17483-RA, Tfasc_v1.28271-RA	0.03861
+CC	GO:0005886	plasma membrane	Tfasc_v1.00748-RA, Tfasc_v1.01324-RA, Tfasc_v1.02158-RA, Tfasc_v1.02266-RA, Tfasc_v1.02938-RA, Tfasc_v1.02943-RA, Tfasc_v1.03047-RA, Tfasc_v1.03304-RA, Tfasc_v1.03592-RA, Tfasc_v1.04594-RA, Tfasc_v1.05242-RA, Tfasc_v1.08873-RA, Tfasc_v1.09672-RA, Tfasc_v1.09673-RA, Tfasc_v1.12888-RA, Tfasc_v1.15251-RA, Tfasc_v1.17142-RA, Tfasc_v1.18221-RA, Tfasc_v1.18504-RA, Tfasc_v1.18786-RA, Tfasc_v1.19887-RA, Tfasc_v1.20041-RA, Tfasc_v1.21912-RA, Tfasc_v1.23046-RA, Tfasc_v1.24151-RA, Tfasc_v1.24186-RA, Tfasc_v1.24491-RA, Tfasc_v1.25199-RA, Tfasc_v1.25627-RA, Tfasc_v1.25628-RA, Tfasc_v1.27618-RA, Tfasc_v1.27619-RA, Tfasc_v1.27814-RA, Tfasc_v1.29635-RA, Tfasc_v1.29754-RA, Tfasc_v1.29930-RA, Tfasc_v1.30670-RA, Tfasc_v1.31228-RA, Tfasc_v1.31230-RA	0.0052
+CC	GO:0000159	protein phosphatase type 2A complex	Tfasc_v1.13404-RA, Tfasc_v1.13405-RA, Tfasc_v1.24491-RA	0.0111
+CC	GO:0009519	middle lamella	Tfasc_v1.22585-RA	0.0358
+CC	GO:0043231	intracellular membrane-bounded organelle	Tfasc_v1.00127-RA, Tfasc_v1.00808-RA, Tfasc_v1.01143-RA, Tfasc_v1.01282-RA, Tfasc_v1.01665-RA, Tfasc_v1.01823-RA, Tfasc_v1.01849-RA, Tfasc_v1.01891-RA, Tfasc_v1.02215-RA, Tfasc_v1.02289-RA, Tfasc_v1.02300-RA, Tfasc_v1.02362-RA, Tfasc_v1.02437-RA, Tfasc_v1.02439-RA, Tfasc_v1.02550-RA, Tfasc_v1.02968-RA, Tfasc_v1.03610-RA, Tfasc_v1.04427-RA, Tfasc_v1.04501-RA, Tfasc_v1.04578-RA, Tfasc_v1.04776-RA, Tfasc_v1.04959-RA, Tfasc_v1.05016-RA, Tfasc_v1.05521-RA, Tfasc_v1.05615-RA, Tfasc_v1.05653-RA, Tfasc_v1.05902-RA, Tfasc_v1.05905-RA, Tfasc_v1.05941-RA, Tfasc_v1.05982-RA, Tfasc_v1.06811-RA, Tfasc_v1.07026-RA, Tfasc_v1.07559-RA, Tfasc_v1.07872-RA, Tfasc_v1.07975-RA, Tfasc_v1.08084-RA, Tfasc_v1.08107-RA, Tfasc_v1.08121-RA, Tfasc_v1.08150-RA, Tfasc_v1.08438-RA, Tfasc_v1.08668-RA, Tfasc_v1.08748-RA, Tfasc_v1.09600-RA, Tfasc_v1.10756-RA, Tfasc_v1.10944-RA, Tfasc_v1.11056-RA, Tfasc_v1.11417-RB, Tfasc_v1.11639-RA, Tfasc_v1.12094-RA, Tfasc_v1.12119-RA, Tfasc_v1.12384-RA, Tfasc_v1.12425-RA, Tfasc_v1.13038-RA, Tfasc_v1.13153-RA, Tfasc_v1.13163-RA, Tfasc_v1.13329-RA, Tfasc_v1.13404-RA, Tfasc_v1.13405-RA, Tfasc_v1.14071-RA, Tfasc_v1.14095-RA, Tfasc_v1.14172-RA, Tfasc_v1.14225-RA, Tfasc_v1.14476-RA, Tfasc_v1.14633-RA, Tfasc_v1.14635-RA, Tfasc_v1.14674-RA, Tfasc_v1.14675-RA, Tfasc_v1.14709-RA, Tfasc_v1.14893-RA, Tfasc_v1.15453-RA, Tfasc_v1.15454-RA, Tfasc_v1.15744-RA, Tfasc_v1.15852-RA, Tfasc_v1.16050-RA, Tfasc_v1.16112-RA, Tfasc_v1.16205-RA, Tfasc_v1.16253-RA, Tfasc_v1.16372-RA, Tfasc_v1.16415-RA, Tfasc_v1.16426-RA, Tfasc_v1.16471-RA, Tfasc_v1.17135-RA, Tfasc_v1.17137-RA, Tfasc_v1.17140-RA, Tfasc_v1.17195-RA, Tfasc_v1.17537-RA, Tfasc_v1.17540-RA, Tfasc_v1.17540-RB, Tfasc_v1.17972-RA, Tfasc_v1.18294-RA, Tfasc_v1.18303-RA, Tfasc_v1.18705-RA, Tfasc_v1.18707-RA, Tfasc_v1.19302-RA, Tfasc_v1.19305-RA, Tfasc_v1.20077-RA, Tfasc_v1.20203-RA, Tfasc_v1.20276-RA, Tfasc_v1.20469-RA, Tfasc_v1.20509-RA, Tfasc_v1.21495-RA, Tfasc_v1.21696-RA, Tfasc_v1.21767-RA, Tfasc_v1.21912-RA, Tfasc_v1.22346-RA, Tfasc_v1.22497-RA, Tfasc_v1.22625-RA, Tfasc_v1.22637-RA, Tfasc_v1.22866-RA, Tfasc_v1.22892-RA, Tfasc_v1.23089-RA, Tfasc_v1.24036-RA, Tfasc_v1.24082-RA, Tfasc_v1.24182-RA, Tfasc_v1.24333-RA, Tfasc_v1.24491-RA, Tfasc_v1.25013-RA, Tfasc_v1.25311-RA, Tfasc_v1.25807-RA, Tfasc_v1.25933-RA, Tfasc_v1.26057-RA, Tfasc_v1.26059-RA, Tfasc_v1.26686-RA, Tfasc_v1.26791-RA, Tfasc_v1.27353-RA, Tfasc_v1.27717-RA, Tfasc_v1.27908-RA, Tfasc_v1.28196-RB, Tfasc_v1.28537-RA, Tfasc_v1.28904-RA, Tfasc_v1.29310-RA, Tfasc_v1.29754-RA, Tfasc_v1.29783-RA, Tfasc_v1.29930-RA, Tfasc_v1.29958-RA, Tfasc_v1.30415-RA, Tfasc_v1.31821-RA, Tfasc_v1.32018-RA	0.0391

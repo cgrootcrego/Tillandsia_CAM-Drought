@@ -1,0 +1,67 @@
+Category	ID	Term	Genes	adj_pval
+BP	GO:0031408	oxylipin biosynthetic process	Tfasc_v1.05517-RA, Tfasc_v1.23382-RA	0.0016
+BP	GO:1902123	(-)-pinoresinol catabolic process	Tfasc_v1.24093-RA	0.005
+BP	GO:1902125	(+)-pinoresinol catabolic process	Tfasc_v1.24093-RA	0.005
+BP	GO:1902128	(-)-lariciresinol catabolic process	Tfasc_v1.24093-RA	0.005
+BP	GO:1902129	(-)-lariciresinol biosynthetic process	Tfasc_v1.24093-RA	0.005
+BP	GO:1902131	(+)-lariciresinol catabolic process	Tfasc_v1.24093-RA	0.005
+BP	GO:1902132	(+)-lariciresinol biosynthetic process	Tfasc_v1.24093-RA	0.005
+BP	GO:1902135	(+)-secoisolariciresinol biosynthetic process	Tfasc_v1.24093-RA	0.005
+BP	GO:1902138	(-)-secoisolariciresinol biosynthetic process	Tfasc_v1.24093-RA	0.005
+BP	GO:0090414	molybdate ion export from vacuole	Tfasc_v1.17626-RA	0.005
+BP	GO:0046856	phosphatidylinositol dephosphorylation	Tfasc_v1.18617-RA, Tfasc_v1.19495-RA	0.0093
+BP	GO:0032780	negative regulation of ATP-dependent activity	Tfasc_v1.29958-RA	0.01
+BP	GO:0009554	megasporogenesis	Tfasc_v1.06555-RA	0.01
+BP	GO:0045900	negative regulation of translational elongation	Tfasc_v1.07884-RA	0.01
+BP	GO:0035672	oligopeptide transmembrane transport	Tfasc_v1.02710-RA, Tfasc_v1.22420-RA	0.0148
+BP	GO:0010133	proline catabolic process to glutamate	Tfasc_v1.01993-RA	0.015
+BP	GO:0006021	inositol biosynthetic process	Tfasc_v1.23052-RA	0.015
+BP	GO:0019346	transsulfuration	Tfasc_v1.07819-RA	0.02
+BP	GO:0048205	COPI coating of Golgi vesicle	Tfasc_v1.06549-RA	0.0249
+BP	GO:0009956	radial pattern formation	Tfasc_v1.06555-RA	0.0298
+BP	GO:0009695	jasmonic acid biosynthetic process	Tfasc_v1.05517-RA	0.0347
+BP	GO:1902389	ceramide 1-phosphate transport	Tfasc_v1.23489-RA	0.0396
+BP	GO:0042732	D-xylose metabolic process	Tfasc_v1.01503-RA	0.0444
+BP	GO:0006470	protein dephosphorylation	Tfasc_v1.00053-RA, Tfasc_v1.02959-RA, Tfasc_v1.02960-RA, Tfasc_v1.29709-RA	0.0451
+BP	GO:0015860	purine nucleoside transmembrane transport	Tfasc_v1.02144-RA	0.0492
+BP	GO:0051014	actin filament severing	Tfasc_v1.05402-RC	0.0492
+MF	GO:0034485	phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase activity	Tfasc_v1.18617-RA, Tfasc_v1.19495-RA	0.0022
+MF	GO:0004439	phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity	Tfasc_v1.18617-RA, Tfasc_v1.19495-RA	0.0043
+MF	GO:0018826	methionine gamma-lyase activity	Tfasc_v1.07819-RA	0.0047
+MF	GO:0004558	alpha-1,4-glucosidase activity	Tfasc_v1.26473-RA	0.0047
+MF	GO:0004657	proline dehydrogenase activity	Tfasc_v1.01993-RA	0.0047
+MF	GO:0010283	pinoresinol reductase activity	Tfasc_v1.24093-RA	0.0047
+MF	GO:0010284	lariciresinol reductase activity	Tfasc_v1.24093-RA	0.0047
+MF	GO:0042030	ATPase inhibitor activity	Tfasc_v1.29958-RA	0.0047
+MF	GO:0080043	quercetin 3-O-glucosyltransferase activity	Tfasc_v1.08795-RA, Tfasc_v1.08797-RA	0.0051
+MF	GO:0080044	quercetin 7-O-glucosyltransferase activity	Tfasc_v1.08795-RA, Tfasc_v1.08797-RA	0.0051
+MF	GO:0005506	iron ion binding	Tfasc_v1.09171-RA, Tfasc_v1.10443-RA, Tfasc_v1.10455-RA, Tfasc_v1.17173-RA, Tfasc_v1.22318-RA, Tfasc_v1.22355-RA	0.0054
+MF	GO:0016709	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen	Tfasc_v1.09171-RA, Tfasc_v1.17173-RA, Tfasc_v1.22318-RA, Tfasc_v1.22355-RA	0.0062
+MF	GO:0016629	12-oxophytodienoate reductase activity	Tfasc_v1.05517-RA	0.0093
+MF	GO:0004512	inositol-3-phosphate synthase activity	Tfasc_v1.23052-RA	0.0093
+MF	GO:0020037	heme binding	Tfasc_v1.09171-RA, Tfasc_v1.10443-RA, Tfasc_v1.10455-RA, Tfasc_v1.17173-RA, Tfasc_v1.22318-RA, Tfasc_v1.22355-RA	0.0105
+MF	GO:0004028	3-chloroallyl aldehyde dehydrogenase activity	Tfasc_v1.07804-RA	0.0139
+MF	GO:0046577	long-chain-alcohol oxidase activity	Tfasc_v1.06467-RA	0.0139
+MF	GO:0015333	peptide:proton symporter activity	Tfasc_v1.02710-RA, Tfasc_v1.22420-RA	0.0179
+MF	GO:0035673	oligopeptide transmembrane transporter activity	Tfasc_v1.02710-RA, Tfasc_v1.22420-RA	0.0202
+MF	GO:0030267	glyoxylate reductase (NADP+) activity	Tfasc_v1.08989-RA	0.0231
+MF	GO:0043024	ribosomal small subunit binding	Tfasc_v1.07884-RA	0.0231
+MF	GO:0033897	ribonuclease T2 activity	Tfasc_v1.18401-RA	0.0231
+MF	GO:0047259	glucomannan 4-beta-mannosyltransferase activity	Tfasc_v1.20376-RA	0.0231
+MF	GO:0140110	transcription regulator activity	Tfasc_v1.00432-RA, Tfasc_v1.16271-RA, Tfasc_v1.17224-RA	0.0234
+MF	GO:0004097	catechol oxidase activity	Tfasc_v1.21934-RA	0.0276
+MF	GO:0003849	3-deoxy-7-phosphoheptulonate synthase activity	Tfasc_v1.23078-RA	0.0276
+MF	GO:0008460	dTDP-glucose 4,6-dehydratase activity	Tfasc_v1.01503-RA	0.0321
+MF	GO:0008131	primary amine oxidase activity	Tfasc_v1.03269-RA	0.0321
+MF	GO:0015098	molybdate ion transmembrane transporter activity	Tfasc_v1.17626-RA	0.0366
+MF	GO:0070403	NAD+ binding	Tfasc_v1.01503-RA	0.0366
+MF	GO:0022857	transmembrane transporter activity	Tfasc_v1.02144-RA, Tfasc_v1.02155-RA, Tfasc_v1.02710-RA, Tfasc_v1.10936-RA, Tfasc_v1.12721-RA, Tfasc_v1.17626-RA, Tfasc_v1.18402-RA, Tfasc_v1.18404-RA, Tfasc_v1.21569-RA, Tfasc_v1.22420-RA	0.0367
+MF	GO:0048040	UDP-glucuronate decarboxylase activity	Tfasc_v1.01503-RA	0.0411
+MF	GO:1902387	ceramide 1-phosphate binding	Tfasc_v1.23489-RA	0.0411
+MF	GO:1902388	ceramide 1-phosphate transfer activity	Tfasc_v1.23489-RA	0.0411
+MF	GO:0015211	purine nucleoside transmembrane transporter activity	Tfasc_v1.02144-RA	0.0456
+MF	GO:0003989	acetyl-CoA carboxylase activity	Tfasc_v1.23210-RA	0.05
+CC	GO:0009317	acetyl-CoA carboxylase complex	Tfasc_v1.23210-RA	0.024
+CC	GO:0009534	chloroplast thylakoid	Tfasc_v1.03882-RA, Tfasc_v1.07884-RA, Tfasc_v1.13903-RA	0.034
+CC	GO:0009506	plasmodesma	Tfasc_v1.01862-RA, Tfasc_v1.04341-RA, Tfasc_v1.06555-RA, Tfasc_v1.08026-RA	0.034
+CC	GO:0010598	NAD(P)H dehydrogenase complex (plastoquinone)	Tfasc_v1.13903-RA	0.039

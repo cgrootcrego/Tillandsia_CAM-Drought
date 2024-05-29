@@ -1,0 +1,110 @@
+Category	ID	Term	Genes	adj_pval
+BP	GO:0006809	nitric oxide biosynthetic process	Tfasc_v1.08593-RA, Tfasc_v1.08595-RA, Tfasc_v1.08596-RA	9.3e-06
+BP	GO:0042128	nitrate assimilation	Tfasc_v1.08593-RA, Tfasc_v1.08595-RA, Tfasc_v1.08596-RA	4.6e-05
+BP	GO:0042542	response to hydrogen peroxide	Tfasc_v1.01880-RA, Tfasc_v1.03385-RA, Tfasc_v1.24191-RA, Tfasc_v1.28042-RA	0.00043
+BP	GO:0009414	response to water deprivation	Tfasc_v1.01880-RA, Tfasc_v1.03385-RA, Tfasc_v1.07962-RA, Tfasc_v1.09214-RA, Tfasc_v1.19709-RA, Tfasc_v1.25175-RA, Tfasc_v1.28586-RA	0.00046
+BP	GO:0007094	mitotic spindle assembly checkpoint signaling	Tfasc_v1.19856-RA, Tfasc_v1.19861-RA, Tfasc_v1.29690-RA	0.00047
+BP	GO:0009298	GDP-mannose biosynthetic process	Tfasc_v1.21501-RA, Tfasc_v1.21509-RA	0.00053
+BP	GO:0006223	uracil salvage	Tfasc_v1.29555-RA, Tfasc_v1.29567-RA	0.00105
+BP	GO:0006013	mannose metabolic process	Tfasc_v1.21501-RA, Tfasc_v1.21509-RA	0.00173
+BP	GO:0019853	L-ascorbic acid biosynthetic process	Tfasc_v1.21501-RA, Tfasc_v1.21509-RA	0.00356
+BP	GO:0007076	mitotic chromosome condensation	Tfasc_v1.05158-RA, Tfasc_v1.13006-RA	0.01072
+BP	GO:0043100	pyrimidine nucleobase salvage	Tfasc_v1.01954-RA, Tfasc_v1.29555-RA, Tfasc_v1.29567-RA	0.01322
+BP	GO:0016119	carotene metabolic process	Tfasc_v1.04408-RA, Tfasc_v1.04498-RA, Tfasc_v1.06921-RA	0.01323
+BP	GO:0006203	dGTP catabolic process	Tfasc_v1.15930-RA	0.01335
+BP	GO:0006636	unsaturated fatty acid biosynthetic process	Tfasc_v1.24191-RA	0.01335
+BP	GO:0071629	cytoplasm protein quality control by the ubiquitin-proteasome system	Tfasc_v1.23009-RA	0.01335
+BP	GO:0010483	pollen tube reception	Tfasc_v1.26432-RA	0.01335
+BP	GO:0062034	L-pipecolic acid biosynthetic process	Tfasc_v1.06923-RA	0.01335
+BP	GO:0098755	maintenance of seed dormancy by absisic acid	Tfasc_v1.22253-RA	0.01335
+BP	GO:1900186	negative regulation of clathrin-dependent endocytosis	Tfasc_v1.29211-RA	0.01335
+BP	GO:0033274	response to vitamin B2	Tfasc_v1.24191-RA	0.01335
+BP	GO:0009617	response to bacterium	Tfasc_v1.01880-RA, Tfasc_v1.03385-RA, Tfasc_v1.24191-RA	0.01461
+BP	GO:0009409	response to cold	Tfasc_v1.07962-RA, Tfasc_v1.08045-RA, Tfasc_v1.09214-RA, Tfasc_v1.25175-RA, Tfasc_v1.28586-RA	0.01488
+BP	GO:0051304	chromosome separation	Tfasc_v1.13006-RA, Tfasc_v1.19856-RA, Tfasc_v1.19861-RA, Tfasc_v1.29690-RA	0.02618
+BP	GO:0006680	glucosylceramide catabolic process	Tfasc_v1.22528-RA	0.02652
+BP	GO:1990426	mitotic recombination-dependent replication fork processing	Tfasc_v1.20179-RA	0.02652
+BP	GO:1902000	homogentisate catabolic process	Tfasc_v1.13919-RA	0.02652
+BP	GO:0030308	negative regulation of cell growth	Tfasc_v1.26432-RA	0.02652
+BP	GO:0061635	regulation of protein complex stability	Tfasc_v1.23009-RA	0.02652
+BP	GO:1903259	exon-exon junction complex disassembly	Tfasc_v1.23853-RA	0.02652
+BP	GO:0072318	clathrin coat disassembly	Tfasc_v1.29211-RA	0.02652
+BP	GO:0032259	methylation	Tfasc_v1.01681-RA, Tfasc_v1.01929-RA, Tfasc_v1.03453-RA, Tfasc_v1.20405-RC, Tfasc_v1.23070-RA, Tfasc_v1.27507-RA, Tfasc_v1.28429-RA, Tfasc_v1.28431-RA, Tfasc_v1.32790-RA	0.02781
+BP	GO:0045454	cell redox homeostasis	Tfasc_v1.01880-RA, Tfasc_v1.04832-RA, Tfasc_v1.08862-RA, Tfasc_v1.11166-RA, Tfasc_v1.17439-RA	0.03117
+BP	GO:0007623	circadian rhythm	Tfasc_v1.01880-RA, Tfasc_v1.03385-RA, Tfasc_v1.24191-RA	0.03212
+BP	GO:0009723	response to ethylene	Tfasc_v1.06884-RA, Tfasc_v1.24191-RA, Tfasc_v1.26432-RA	0.03373
+BP	GO:0010020	chloroplast fission	Tfasc_v1.12014-RA, Tfasc_v1.29947-RA	0.03439
+BP	GO:0006629	lipid metabolic process	Tfasc_v1.01230-RA, Tfasc_v1.01270-RA, Tfasc_v1.01929-RA, Tfasc_v1.02513-RA, Tfasc_v1.04408-RA, Tfasc_v1.04498-RA, Tfasc_v1.06921-RA, Tfasc_v1.07962-RA, Tfasc_v1.09857-RA, Tfasc_v1.11615-RA, Tfasc_v1.14811-RA, Tfasc_v1.15109-RA, Tfasc_v1.20500-RA, Tfasc_v1.21270-RA, Tfasc_v1.22528-RA, Tfasc_v1.23782-RA, Tfasc_v1.24191-RA, Tfasc_v1.27615-RA, Tfasc_v1.29520-RA, Tfasc_v1.32790-RA	0.03509
+BP	GO:0051788	response to misfolded protein	Tfasc_v1.06768-RA, Tfasc_v1.23009-RA	0.03939
+BP	GO:1900367	positive regulation of defense response to insect	Tfasc_v1.24191-RA	0.03952
+BP	GO:1903602	thermospermine catabolic process	Tfasc_v1.21380-RA	0.03952
+BP	GO:0051865	protein autoubiquitination	Tfasc_v1.23009-RA	0.03952
+BP	GO:0033484	intracellular nitric oxide homeostasis	Tfasc_v1.01880-RA	0.03952
+BP	GO:1901672	positive regulation of systemic acquired resistance	Tfasc_v1.06923-RA	0.03952
+BP	GO:0017014	protein nitrosylation	Tfasc_v1.01880-RA	0.03952
+BP	GO:1901006	ubiquinone-6 biosynthetic process	Tfasc_v1.26074-RA	0.03952
+BP	GO:0006106	fumarate metabolic process	Tfasc_v1.01541-RA	0.03952
+BP	GO:0000730	DNA recombinase assembly	Tfasc_v1.20179-RA	0.03952
+BP	GO:0006572	tyrosine catabolic process	Tfasc_v1.13919-RA	0.03952
+BP	GO:0015713	phosphoglycerate transmembrane transport	Tfasc_v1.10834-RA	0.03952
+BP	GO:0009625	response to insect	Tfasc_v1.24191-RA	0.03952
+MF	GO:0020037	heme binding	Tfasc_v1.01880-RA, Tfasc_v1.03385-RA, Tfasc_v1.05450-RA, Tfasc_v1.07611-RA, Tfasc_v1.08593-RA, Tfasc_v1.08595-RA, Tfasc_v1.08596-RA, Tfasc_v1.17162-RA, Tfasc_v1.17163-RA, Tfasc_v1.20749-RA, Tfasc_v1.22473-RA, Tfasc_v1.28377-RA, Tfasc_v1.29526-RA, Tfasc_v1.31034-RA, Tfasc_v1.31035-RA, Tfasc_v1.31036-RA, Tfasc_v1.31304-RA	5.5e-06
+MF	GO:0050464	nitrate reductase (NADPH) activity	Tfasc_v1.08593-RA, Tfasc_v1.08595-RA, Tfasc_v1.08596-RA	6.5e-06
+MF	GO:0009703	nitrate reductase (NADH) activity	Tfasc_v1.08593-RA, Tfasc_v1.08595-RA, Tfasc_v1.08596-RA	6.5e-06
+MF	GO:0043546	molybdopterin cofactor binding	Tfasc_v1.08593-RA, Tfasc_v1.08595-RA, Tfasc_v1.08596-RA	5.6e-05
+MF	GO:0005506	iron ion binding	Tfasc_v1.01270-RA, Tfasc_v1.05450-RA, Tfasc_v1.06921-RA, Tfasc_v1.07611-RA, Tfasc_v1.07962-RA, Tfasc_v1.17162-RA, Tfasc_v1.17163-RA, Tfasc_v1.20749-RA, Tfasc_v1.28377-RA, Tfasc_v1.31034-RA, Tfasc_v1.31035-RA, Tfasc_v1.31036-RA, Tfasc_v1.31304-RA	0.00024
+MF	GO:0030151	molybdenum ion binding	Tfasc_v1.08593-RA, Tfasc_v1.08595-RA, Tfasc_v1.08596-RA	0.00033
+MF	GO:0004615	phosphomannomutase activity	Tfasc_v1.21501-RA, Tfasc_v1.21509-RA	0.00042
+MF	GO:0016709	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen	Tfasc_v1.05450-RA, Tfasc_v1.17162-RA, Tfasc_v1.17163-RA, Tfasc_v1.20749-RA, Tfasc_v1.31034-RA, Tfasc_v1.31035-RA, Tfasc_v1.31036-RA, Tfasc_v1.31304-RA	0.00058
+MF	GO:0004845	uracil phosphoribosyltransferase activity	Tfasc_v1.29555-RA, Tfasc_v1.29567-RA	0.00083
+MF	GO:0004096	catalase activity	Tfasc_v1.01880-RA, Tfasc_v1.03385-RA	0.00137
+MF	GO:0004602	glutathione peroxidase activity	Tfasc_v1.17265-RA, Tfasc_v1.19575-RA	0.00374
+MF	GO:0004805	trehalose-phosphatase activity	Tfasc_v1.02016-RA, Tfasc_v1.23059-RA	0.00718
+MF	GO:0047751	cholestenone 5-alpha-reductase activity	Tfasc_v1.29520-RA	0.01186
+MF	GO:0050213	progesterone 5-alpha-reductase activity	Tfasc_v1.29520-RA	0.01186
+MF	GO:0008832	dGTPase activity	Tfasc_v1.15930-RA	0.01186
+MF	GO:0062046	dehydropipecolic acid reductase	Tfasc_v1.06923-RA	0.01186
+MF	GO:0050638	taxadien-5-alpha-ol O-acetyltransferase activity	Tfasc_v1.17109-RA	0.01186
+MF	GO:0005358	high-affinity glucose:proton symporter activity	Tfasc_v1.19709-RA	0.01186
+MF	GO:0004411	homogentisate 1,2-dioxygenase activity	Tfasc_v1.13919-RA	0.01186
+MF	GO:0008114	phosphogluconate 2-dehydrogenase activity	Tfasc_v1.22162-RA	0.01186
+MF	GO:0009917	sterol 5-alpha reductase activity	Tfasc_v1.29520-RA	0.01186
+MF	GO:0042284	sphingolipid delta-4 desaturase activity	Tfasc_v1.02513-RA	0.01186
+MF	GO:0004672	protein kinase activity	Tfasc_v1.00225-RA, Tfasc_v1.01585-RA, Tfasc_v1.01631-RA, Tfasc_v1.03644-RA, Tfasc_v1.03648-RA, Tfasc_v1.03656-RA, Tfasc_v1.03666-RA, Tfasc_v1.03667-RA, Tfasc_v1.05303-RA, Tfasc_v1.09766-RA, Tfasc_v1.11055-RA, Tfasc_v1.11965-RA, Tfasc_v1.12216-RA, Tfasc_v1.14272-RA, Tfasc_v1.14774-RA, Tfasc_v1.15970-RA, Tfasc_v1.21349-RA, Tfasc_v1.23343-RA, Tfasc_v1.23719-RA, Tfasc_v1.24335-RA, Tfasc_v1.26432-RA, Tfasc_v1.26974-RA, Tfasc_v1.32834-RA	0.01294
+MF	GO:0004185	serine-type carboxypeptidase activity	Tfasc_v1.05696-RA, Tfasc_v1.13936-RA, Tfasc_v1.30694-RA	0.01434
+MF	GO:0051082	unfolded protein binding	Tfasc_v1.01795-RA, Tfasc_v1.03383-RA, Tfasc_v1.28042-RA, Tfasc_v1.28586-RA, Tfasc_v1.29087-RA	0.01521
+MF	GO:0051787	misfolded protein binding	Tfasc_v1.03383-RA, Tfasc_v1.23009-RA	0.02312
+MF	GO:0000234	phosphoethanolamine N-methyltransferase activity	Tfasc_v1.32790-RA	0.02358
+MF	GO:0004348	glucosylceramidase activity	Tfasc_v1.22528-RA	0.02358
+MF	GO:0004648	O-phospho-L-serine:2-oxoglutarate aminotransferase activity	Tfasc_v1.20533-RA	0.02358
+MF	GO:0004013	adenosylhomocysteinase activity	Tfasc_v1.30560-RA	0.02358
+MF	GO:0046423	allene-oxide cyclase activity	Tfasc_v1.24191-RA	0.02358
+MF	GO:0004439	phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity	Tfasc_v1.15109-RA, Tfasc_v1.20500-RA	0.02535
+MF	GO:0004333	fumarate hydratase activity	Tfasc_v1.01541-RA	0.03515
+MF	GO:0015120	phosphoglycerate transmembrane transporter activity	Tfasc_v1.10834-RA	0.03515
+MF	GO:0004616	phosphogluconate dehydrogenase (decarboxylating) activity	Tfasc_v1.22162-RA	0.03515
+MF	GO:0003865	3-oxo-5-alpha-steroid 4-dehydrogenase activity	Tfasc_v1.29520-RA	0.03515
+MF	GO:0052894	norspermine:oxygen oxidoreductase activity	Tfasc_v1.21380-RA	0.03515
+MF	GO:0052901	spermine:oxygen oxidoreductase (spermidine-forming) activity	Tfasc_v1.21380-RA	0.03515
+MF	GO:0005524	ATP binding	Tfasc_v1.00225-RA, Tfasc_v1.00421-RA, Tfasc_v1.01585-RA, Tfasc_v1.01631-RA, Tfasc_v1.03383-RA, Tfasc_v1.03644-RA, Tfasc_v1.03648-RA, Tfasc_v1.03656-RA, Tfasc_v1.03666-RA, Tfasc_v1.03667-RA, Tfasc_v1.04259-RA, Tfasc_v1.04266-RA, Tfasc_v1.05158-RA, Tfasc_v1.05303-RA, Tfasc_v1.05785-RA, Tfasc_v1.06104-RA, Tfasc_v1.07830-RA, Tfasc_v1.07899-RA, Tfasc_v1.09766-RA, Tfasc_v1.10441-RA, Tfasc_v1.11055-RA, Tfasc_v1.11965-RA, Tfasc_v1.12216-RA, Tfasc_v1.14272-RA, Tfasc_v1.14344-RA, Tfasc_v1.14774-RA, Tfasc_v1.14790-RA, Tfasc_v1.15970-RA, Tfasc_v1.16095-RA, Tfasc_v1.17472-RA, Tfasc_v1.19347-RB, Tfasc_v1.20179-RA, Tfasc_v1.21349-RA, Tfasc_v1.23343-RA, Tfasc_v1.23719-RA, Tfasc_v1.24335-RA, Tfasc_v1.25175-RA, Tfasc_v1.26432-RA, Tfasc_v1.26974-RA, Tfasc_v1.28586-RA, Tfasc_v1.32332-RA, Tfasc_v1.32834-RA	0.03835
+MF	GO:0008422	beta-glucosidase activity	Tfasc_v1.03094-RA, Tfasc_v1.22528-RA	0.04046
+MF	GO:0071949	FAD binding	Tfasc_v1.08593-RA, Tfasc_v1.08595-RA, Tfasc_v1.08596-RA	0.04203
+MF	GO:0046905	15-cis-phytoene synthase activity	Tfasc_v1.04498-RA	0.0466
+MF	GO:0004612	phosphoenolpyruvate carboxykinase (ATP) activity	Tfasc_v1.07899-RA	0.0466
+MF	GO:0071917	triose-phosphate transmembrane transporter activity	Tfasc_v1.10834-RA	0.0466
+MF	GO:0008661	1-deoxy-D-xylulose-5-phosphate synthase activity	Tfasc_v1.11615-RA	0.0466
+MF	GO:0015292	uniporter activity	Tfasc_v1.12489-RA	0.0466
+MF	GO:0033743	peptide-methionine (R)-S-oxide reductase activity	Tfasc_v1.15052-RA	0.0466
+MF	GO:0016767	geranylgeranyl-diphosphate geranylgeranyltransferase activity	Tfasc_v1.04498-RA	0.0466
+MF	GO:0000150	DNA strand exchange activity	Tfasc_v1.20179-RA	0.0466
+MF	GO:0015171	amino acid transmembrane transporter activity	Tfasc_v1.18001-RA, Tfasc_v1.22615-RA, Tfasc_v1.27635-RA	0.04701
+CC	GO:1990298	bub1-bub3 complex	Tfasc_v1.19856-RA, Tfasc_v1.19861-RA	8e-04
+CC	GO:0033597	mitotic checkpoint complex	Tfasc_v1.19856-RA, Tfasc_v1.19861-RA	8e-04
+CC	GO:0005886	plasma membrane	Tfasc_v1.00225-RA, Tfasc_v1.01585-RA, Tfasc_v1.01880-RA, Tfasc_v1.01954-RA, Tfasc_v1.03385-RA, Tfasc_v1.03666-RA, Tfasc_v1.03667-RA, Tfasc_v1.05785-RA, Tfasc_v1.07225-RA, Tfasc_v1.09766-RA, Tfasc_v1.11890-RA, Tfasc_v1.12216-RA, Tfasc_v1.13825-RA, Tfasc_v1.14272-RA, Tfasc_v1.14790-RA, Tfasc_v1.14811-RA, Tfasc_v1.15862-RA, Tfasc_v1.16095-RA, Tfasc_v1.17680-RA, Tfasc_v1.18001-RA, Tfasc_v1.22615-RA, Tfasc_v1.25175-RA, Tfasc_v1.26074-RA, Tfasc_v1.26432-RA, Tfasc_v1.26974-RA, Tfasc_v1.28586-RA, Tfasc_v1.29211-RA, Tfasc_v1.29526-RA	0.0029
+CC	GO:0009508	plastid chromosome	Tfasc_v1.02764-RA, Tfasc_v1.02765-RA	0.0113
+CC	GO:0043680	filiform apparatus	Tfasc_v1.26432-RA	0.0117
+CC	GO:0000776	kinetochore	Tfasc_v1.19856-RA, Tfasc_v1.19861-RA	0.0184
+CC	GO:0000779	condensed chromosome, centromeric region	Tfasc_v1.13006-RA, Tfasc_v1.19856-RA, Tfasc_v1.19861-RA	0.023
+CC	GO:0009524	phragmoplast	Tfasc_v1.19856-RA, Tfasc_v1.19861-RA	0.0342
+CC	GO:0005788	endoplasmic reticulum lumen	Tfasc_v1.03383-RA, Tfasc_v1.29087-RA	0.0342
+CC	GO:1990246	uniplex complex	Tfasc_v1.12489-RA	0.046

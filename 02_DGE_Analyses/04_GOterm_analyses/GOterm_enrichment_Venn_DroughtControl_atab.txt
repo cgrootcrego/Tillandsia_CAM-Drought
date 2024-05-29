@@ -1,0 +1,12 @@
+Category	ID	Term	Genes	adj_pval
+BP	GO:0006032	chitin catabolic process	Tfasc_v1.21316-RA	0.0039
+BP	GO:0010951	negative regulation of endopeptidase activity	Tfasc_v1.03236-RA	0.0074
+BP	GO:0016998	cell wall macromolecule catabolic process	Tfasc_v1.21316-RA	0.0093
+MF	GO:0030267	glyoxylate reductase (NADP+) activity	Tfasc_v1.08989-RA	0.0017
+MF	GO:0004867	serine-type endopeptidase inhibitor activity	Tfasc_v1.03236-RA	0.0048
+MF	GO:0004568	chitinase activity	Tfasc_v1.21316-RA	0.0055
+MF	GO:0016832	aldehyde-lyase activity	Tfasc_v1.08989-RA	0.0082
+MF	GO:0050661	NADP binding	Tfasc_v1.08989-RA	0.0224
+MF	GO:0051287	NAD binding	Tfasc_v1.08989-RA	0.0295
+MF	GO:0004190	aspartic-type endopeptidase activity	Tfasc_v1.31952-RA	0.0411
+CC	GO:0005576	extracellular region	Tfasc_v1.03236-RA, Tfasc_v1.31952-RA	0.004

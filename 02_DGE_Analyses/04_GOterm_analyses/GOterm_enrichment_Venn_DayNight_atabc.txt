@@ -1,0 +1,43 @@
+Category	ID	Term	Genes	adj_pval
+BP	GO:0009938	negative regulation of gibberellic acid mediated signaling pathway	Tfasc_v1.09668-RA, Tfasc_v1.25269-RA	0.00037
+BP	GO:1900150	regulation of defense response to fungus	Tfasc_v1.26441-RA, Tfasc_v1.27788-RA	0.00135
+BP	GO:0006355	regulation of DNA-templated transcription	Tfasc_v1.01696-RA, Tfasc_v1.01717-RA, Tfasc_v1.06618-RA, Tfasc_v1.09505-RA, Tfasc_v1.09668-RA, Tfasc_v1.10801-RA, Tfasc_v1.16790-RA, Tfasc_v1.17114-RA, Tfasc_v1.20435-RA, Tfasc_v1.20438-RA, Tfasc_v1.21098-RA, Tfasc_v1.24489-RA, Tfasc_v1.25269-RA, Tfasc_v1.27740-RA	0.00141
+BP	GO:0009768	photosynthesis, light harvesting in photosystem I	Tfasc_v1.05868-RA, Tfasc_v1.09192-RA	0.00174
+BP	GO:0031098	stress-activated protein kinase signaling cascade	Tfasc_v1.23546-RA, Tfasc_v1.32728-RA	0.00577
+BP	GO:0032147	activation of protein kinase activity	Tfasc_v1.23546-RA, Tfasc_v1.32728-RA	0.00858
+BP	GO:0002237	response to molecule of bacterial origin	Tfasc_v1.16790-RA, Tfasc_v1.25269-RA	0.0108
+BP	GO:0005992	trehalose biosynthetic process	Tfasc_v1.08823-RA, Tfasc_v1.09032-RA	0.01138
+BP	GO:0009651	response to salt stress	Tfasc_v1.00027-RA, Tfasc_v1.09668-RA, Tfasc_v1.25269-RA, Tfasc_v1.25374-RA	0.01386
+BP	GO:0071219	cellular response to molecule of bacterial origin	Tfasc_v1.16790-RA	0.01463
+BP	GO:1900426	positive regulation of defense response to bacterium	Tfasc_v1.16790-RA	0.01463
+BP	GO:0009723	response to ethylene	Tfasc_v1.09668-RA, Tfasc_v1.25269-RA	0.01623
+BP	GO:0010411	xyloglucan metabolic process	Tfasc_v1.08164-RA, Tfasc_v1.26788-RA	0.01987
+BP	GO:2000033	regulation of seed dormancy process	Tfasc_v1.09668-RA	0.02186
+BP	GO:0010112	regulation of systemic acquired resistance	Tfasc_v1.16790-RA	0.02546
+BP	GO:0019441	tryptophan catabolic process to kynurenine	Tfasc_v1.12144-RA	0.02904
+BP	GO:0002238	response to molecule of fungal origin	Tfasc_v1.25269-RA	0.02904
+BP	GO:0010187	negative regulation of seed germination	Tfasc_v1.09668-RA	0.02904
+BP	GO:0080142	regulation of salicylic acid biosynthetic process	Tfasc_v1.16790-RA	0.03261
+BP	GO:0010200	response to chitin	Tfasc_v1.25269-RA	0.03261
+BP	GO:0009645	response to low light intensity stimulus	Tfasc_v1.09192-RA	0.03261
+BP	GO:0009753	response to jasmonic acid	Tfasc_v1.09668-RA, Tfasc_v1.25269-RA	0.04606
+BP	GO:0006468	protein phosphorylation	Tfasc_v1.03128-RA, Tfasc_v1.05996-RA, Tfasc_v1.16454-RA, Tfasc_v1.18627-RA, Tfasc_v1.23546-RA, Tfasc_v1.24205-RA, Tfasc_v1.24209-RA, Tfasc_v1.24407-RA, Tfasc_v1.27881-RA, Tfasc_v1.28605-RA, Tfasc_v1.32728-RA	0.0466
+BP	GO:0009687	abscisic acid metabolic process	Tfasc_v1.28072-RA	0.04677
+BP	GO:0007346	regulation of mitotic cell cycle	Tfasc_v1.23546-RA, Tfasc_v1.32728-RA	0.0495
+MF	GO:0003700	DNA-binding transcription factor activity	Tfasc_v1.01696-RA, Tfasc_v1.09505-RA, Tfasc_v1.09668-RA, Tfasc_v1.10801-RA, Tfasc_v1.16790-RA, Tfasc_v1.20435-RA, Tfasc_v1.20438-RA, Tfasc_v1.21098-RA, Tfasc_v1.25269-RA, Tfasc_v1.27740-RA	4.9e-05
+MF	GO:0016168	chlorophyll binding	Tfasc_v1.05868-RA, Tfasc_v1.09192-RA	0.004
+MF	GO:0016762	xyloglucan:xyloglucosyl transferase activity	Tfasc_v1.08164-RA, Tfasc_v1.26788-RA	0.0052
+MF	GO:0048529	magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase activity	Tfasc_v1.27705-RA	0.0068
+MF	GO:0061630	ubiquitin protein ligase activity	Tfasc_v1.00067-RA, Tfasc_v1.06911-RA, Tfasc_v1.28008-RA	0.0091
+MF	GO:0010295	(+)-abscisic acid 8'-hydroxylase activity	Tfasc_v1.28072-RA	0.0101
+MF	GO:1990841	promoter-specific chromatin binding	Tfasc_v1.25269-RA	0.0135
+MF	GO:0004618	phosphoglycerate kinase activity	Tfasc_v1.25083-RA	0.0168
+MF	GO:0035252	UDP-xylosyltransferase activity	Tfasc_v1.15980-RA	0.0201
+MF	GO:0004674	protein serine/threonine kinase activity	Tfasc_v1.03128-RA, Tfasc_v1.05996-RA, Tfasc_v1.16454-RA, Tfasc_v1.23546-RA, Tfasc_v1.24407-RA, Tfasc_v1.28605-RA, Tfasc_v1.32728-RA	0.0242
+MF	GO:0090447	glycerol-3-phosphate 2-O-acyltransferase activity	Tfasc_v1.13106-RA	0.0333
+MF	GO:0004805	trehalose-phosphatase activity	Tfasc_v1.08823-RA	0.0366
+MF	GO:0003677	DNA binding	Tfasc_v1.01696-RA, Tfasc_v1.09165-RA, Tfasc_v1.09668-RA, Tfasc_v1.10801-RA, Tfasc_v1.16790-RA, Tfasc_v1.17114-RA, Tfasc_v1.20435-RA, Tfasc_v1.20438-RA, Tfasc_v1.21098-RA, Tfasc_v1.25269-RA, Tfasc_v1.27740-RA, Tfasc_v1.30068-RA	0.0371
+CC	GO:0010287	plastoglobule	Tfasc_v1.05868-RA, Tfasc_v1.09192-RA	0.0084
+CC	GO:0009522	photosystem I	Tfasc_v1.05868-RA, Tfasc_v1.09192-RA	0.0096
+CC	GO:0009523	photosystem II	Tfasc_v1.05868-RA, Tfasc_v1.09192-RA	0.018
+CC	GO:0009535	chloroplast thylakoid membrane	Tfasc_v1.05868-RA, Tfasc_v1.09192-RA, Tfasc_v1.27705-RA	0.0413

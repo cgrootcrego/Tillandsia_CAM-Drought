@@ -1,0 +1,55 @@
+Category	ID	Term	Genes	adj_pval
+BP	GO:0035019	somatic stem cell population maintenance	Tfasc_v1.20473-RA	0.0042
+BP	GO:0010401	pectic galactan metabolic process	Tfasc_v1.00011-RA	0.0042
+BP	GO:0032055	negative regulation of translation in response to stress	Tfasc_v1.00068-RA	0.0042
+BP	GO:0071365	cellular response to auxin stimulus	Tfasc_v1.24378-RA, Tfasc_v1.27837-RA	0.0083
+BP	GO:0042794	plastid rRNA transcription	Tfasc_v1.32392-RA	0.0084
+BP	GO:0019310	inositol catabolic process	Tfasc_v1.14231-RA	0.0084
+BP	GO:1901703	protein localization involved in auxin polar transport	Tfasc_v1.27837-RA	0.0125
+BP	GO:0010424	DNA methylation on cytosine within a CG sequence	Tfasc_v1.19447-RA	0.0125
+BP	GO:0010586	miRNA metabolic process	Tfasc_v1.20473-RA	0.0125
+BP	GO:0090116	C-5 methylation of cytosine	Tfasc_v1.19447-RA	0.0125
+BP	GO:0051513	regulation of monopolar cell growth	Tfasc_v1.13867-RA	0.0208
+BP	GO:0097052	L-kynurenine metabolic process	Tfasc_v1.12896-RA	0.0208
+BP	GO:0000413	protein peptidyl-prolyl isomerization	Tfasc_v1.17618-RB, Tfasc_v1.25716-RA	0.0287
+BP	GO:0051607	defense response to virus	Tfasc_v1.20473-RA	0.029
+BP	GO:0010216	negative regulation of gene expression via chromosomal DNA cytosine methylation	Tfasc_v1.19447-RA	0.029
+BP	GO:0052541	plant-type cell wall cellulose metabolic process	Tfasc_v1.00011-RA	0.029
+BP	GO:0033388	putrescine biosynthetic process from arginine	Tfasc_v1.01727-RA	0.029
+BP	GO:0006782	protoporphyrinogen IX biosynthetic process	Tfasc_v1.07740-RA	0.0331
+BP	GO:1902183	regulation of shoot apical meristem development	Tfasc_v1.20473-RA	0.0331
+BP	GO:0006527	arginine catabolic process	Tfasc_v1.01727-RA	0.0331
+BP	GO:0006826	iron ion transport	Tfasc_v1.02419-RA, Tfasc_v1.20733-RA	0.0357
+BP	GO:0055072	iron ion homeostasis	Tfasc_v1.02419-RA, Tfasc_v1.20733-RA	0.0414
+BP	GO:0035435	phosphate ion transmembrane transport	Tfasc_v1.22265-RA	0.0452
+BP	GO:0008295	spermidine biosynthetic process	Tfasc_v1.01727-RA	0.0452
+BP	GO:0032544	plastid translation	Tfasc_v1.27706-RA	0.0492
+BP	GO:0120029	proton export across plasma membrane	Tfasc_v1.26778-RA	0.0492
+BP	GO:0009934	regulation of meristem structural organization	Tfasc_v1.20473-RA	0.0492
+BP	GO:0006353	DNA-templated transcription termination	Tfasc_v1.32392-RA	0.0492
+MF	GO:0016709	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen	Tfasc_v1.04698-RA, Tfasc_v1.05450-RA, Tfasc_v1.17163-RA, Tfasc_v1.31035-RA, Tfasc_v1.31036-RA	0.00036
+MF	GO:0020037	heme binding	Tfasc_v1.04698-RA, Tfasc_v1.05450-RA, Tfasc_v1.12411-RA, Tfasc_v1.17163-RA, Tfasc_v1.23629-RA, Tfasc_v1.31035-RA, Tfasc_v1.31036-RA	0.00086
+MF	GO:0042626	ATPase-coupled transmembrane transporter activity	Tfasc_v1.10598-RA, Tfasc_v1.10599-RA, Tfasc_v1.16095-RA, Tfasc_v1.18343-RA, Tfasc_v1.26778-RA	0.00107
+MF	GO:0005506	iron ion binding	Tfasc_v1.04698-RA, Tfasc_v1.05450-RA, Tfasc_v1.14231-RA, Tfasc_v1.17163-RA, Tfasc_v1.31035-RA, Tfasc_v1.31036-RA	0.00214
+MF	GO:0016887	ATP hydrolysis activity	Tfasc_v1.10598-RA, Tfasc_v1.10599-RA, Tfasc_v1.16095-RA, Tfasc_v1.18343-RA, Tfasc_v1.26778-RA	0.00262
+MF	GO:0051753	mannan synthase activity	Tfasc_v1.18648-RA, Tfasc_v1.20375-RA	0.00325
+MF	GO:0008883	glutamyl-tRNA reductase activity	Tfasc_v1.07740-RA	0.00387
+MF	GO:0004043	L-aminoadipate-semialdehyde dehydrogenase activity	Tfasc_v1.05443-RA	0.00387
+MF	GO:0035198	miRNA binding	Tfasc_v1.20473-RA	0.00387
+MF	GO:0050113	inositol oxygenase activity	Tfasc_v1.14231-RA	0.00773
+MF	GO:0004322	ferroxidase activity	Tfasc_v1.02419-RA, Tfasc_v1.20733-RA	0.00903
+MF	GO:0003886	DNA (cytosine-5-)-methyltransferase activity	Tfasc_v1.19447-RA	0.01539
+MF	GO:0016212	kynurenine-oxoglutarate transaminase activity	Tfasc_v1.12896-RA	0.01921
+MF	GO:0016851	magnesium chelatase activity	Tfasc_v1.27460-RA	0.01921
+MF	GO:0008792	arginine decarboxylase activity	Tfasc_v1.01727-RA	0.023
+MF	GO:0003755	peptidyl-prolyl cis-trans isomerase activity	Tfasc_v1.17618-RB, Tfasc_v1.25716-RA	0.02629
+MF	GO:0004070	aspartate carbamoyltransferase activity	Tfasc_v1.07748-RA	0.02679
+MF	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water	Tfasc_v1.27878-RA	0.03805
+MF	GO:0004805	trehalose-phosphatase activity	Tfasc_v1.08823-RA	0.04177
+MF	GO:0004560	alpha-L-fucosidase activity	Tfasc_v1.18421-RA	0.04918
+MF	GO:0031177	phosphopantetheine binding	Tfasc_v1.30691-RA	0.04918
+CC	GO:0009535	chloroplast thylakoid membrane	Tfasc_v1.00068-RA, Tfasc_v1.17618-RB, Tfasc_v1.24409-RA, Tfasc_v1.27706-RA, Tfasc_v1.31780-RA	0.0024
+CC	GO:0009538	photosystem I reaction center	Tfasc_v1.24409-RA	0.0195
+CC	GO:0044613	nuclear pore central transport channel	Tfasc_v1.01066-RA	0.0195
+CC	GO:0009523	photosystem II	Tfasc_v1.18796-RA, Tfasc_v1.31780-RA	0.0261
+CC	GO:0009543	chloroplast thylakoid lumen	Tfasc_v1.13173-RA	0.0386

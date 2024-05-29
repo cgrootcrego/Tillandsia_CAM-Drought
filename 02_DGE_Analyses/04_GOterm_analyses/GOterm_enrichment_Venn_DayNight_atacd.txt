@@ -1,0 +1,28 @@
+Category	ID	Term	Genes	adj_pval
+BP	GO:0046475	glycerophospholipid catabolic process	Tfasc_v1.30672-RA	0.0011
+BP	GO:0000024	maltose biosynthetic process	Tfasc_v1.06622-RA	0.0022
+BP	GO:0007584	response to nutrient	Tfasc_v1.01254-RA	0.0066
+BP	GO:0009234	menaquinone biosynthetic process	Tfasc_v1.09731-RA	0.0077
+BP	GO:0016121	carotene catabolic process	Tfasc_v1.06465-RA	0.0077
+BP	GO:0005983	starch catabolic process	Tfasc_v1.06622-RA	0.0142
+BP	GO:0010143	cutin biosynthetic process	Tfasc_v1.28886-RA	0.0163
+BP	GO:0010090	trichome morphogenesis	Tfasc_v1.28886-RA	0.0239
+BP	GO:0009735	response to cytokinin	Tfasc_v1.14449-RA	0.0313
+BP	GO:0009056	catabolic process	Tfasc_v1.06465-RA, Tfasc_v1.06622-RA, Tfasc_v1.18729-RA, Tfasc_v1.30672-RA	0.0316
+BP	GO:0032543	mitochondrial translation	Tfasc_v1.15873-RA	0.0335
+BP	GO:0010118	stomatal movement	Tfasc_v1.01254-RA	0.0409
+MF	GO:0004575	sucrose alpha-glucosidase activity	Tfasc_v1.28239-RA, Tfasc_v1.28243-RA	0.00018
+MF	GO:0008935	1,4-dihydroxy-2-naphthoyl-CoA synthase activity	Tfasc_v1.09731-RA	0.00313
+MF	GO:0010436	carotenoid dioxygenase activity	Tfasc_v1.06465-RA	0.01093
+MF	GO:0008131	primary amine oxidase activity	Tfasc_v1.03269-RA	0.01093
+MF	GO:0016161	beta-amylase activity	Tfasc_v1.06622-RA	0.01712
+MF	GO:0102229	amylopectin maltohydrolase activity	Tfasc_v1.06622-RA	0.01712
+MF	GO:0005544	calcium-dependent phospholipid binding	Tfasc_v1.14333-RA	0.02174
+MF	GO:0016709	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen	Tfasc_v1.17173-RA, Tfasc_v1.17175-RA	0.02508
+MF	GO:0016747	acyltransferase activity, transferring groups other than amino-acyl groups	Tfasc_v1.05063-RA, Tfasc_v1.11282-RA, Tfasc_v1.28886-RA	0.02579
+MF	GO:0048038	quinone binding	Tfasc_v1.03269-RA	0.03091
+MF	GO:0080043	quercetin 3-O-glucosyltransferase activity	Tfasc_v1.08788-RA	0.03547
+MF	GO:0080044	quercetin 7-O-glucosyltransferase activity	Tfasc_v1.08788-RA	0.03547
+CC	GO:0010287	plastoglobule	Tfasc_v1.04473-RA, Tfasc_v1.06465-RA	0.0011
+CC	GO:0005763	mitochondrial small ribosomal subunit	Tfasc_v1.15873-RA	0.0141
+CC	GO:0009536	plastid	Tfasc_v1.01254-RA, Tfasc_v1.04473-RA, Tfasc_v1.06465-RA, Tfasc_v1.06622-RA	0.0493

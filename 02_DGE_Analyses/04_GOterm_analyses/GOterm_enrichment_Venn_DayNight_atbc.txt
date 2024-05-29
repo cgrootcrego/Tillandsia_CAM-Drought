@@ -1,0 +1,47 @@
+Category	ID	Term	Genes	adj_pval
+BP	GO:0045815	transcription initiation-coupled chromatin remodeling	Tfasc_v1.06529-RA	0.003
+BP	GO:0030163	protein catabolic process	Tfasc_v1.07733-RA, Tfasc_v1.08612-RA, Tfasc_v1.08617-RA	0.0059
+BP	GO:0048439	flower morphogenesis	Tfasc_v1.06529-RA	0.0059
+BP	GO:0016123	xanthophyll biosynthetic process	Tfasc_v1.23995-RA	0.0089
+BP	GO:0033169	histone H3-K9 demethylation	Tfasc_v1.06529-RA	0.0089
+BP	GO:0009635	response to herbicide	Tfasc_v1.26564-RA	0.0118
+BP	GO:0009789	positive regulation of abscisic acid-activated signaling pathway	Tfasc_v1.21288-RA	0.0133
+BP	GO:0015706	nitrate transmembrane transport	Tfasc_v1.02010-RA	0.0147
+BP	GO:0090333	regulation of stomatal closure	Tfasc_v1.21288-RA	0.0177
+BP	GO:0010167	response to nitrate	Tfasc_v1.02010-RA	0.0249
+BP	GO:0070413	trehalose metabolism in response to stress	Tfasc_v1.24161-RA	0.0278
+BP	GO:0046513	ceramide biosynthetic process	Tfasc_v1.00030-RA	0.0293
+BP	GO:0080163	regulation of protein serine/threonine phosphatase activity	Tfasc_v1.09611-RA	0.0307
+BP	GO:0009395	phospholipid catabolic process	Tfasc_v1.21288-RA	0.0307
+BP	GO:0070816	phosphorylation of RNA polymerase II C-terminal domain	Tfasc_v1.22524-RA	0.0322
+BP	GO:0032968	positive regulation of transcription elongation by RNA polymerase II	Tfasc_v1.22524-RA	0.0336
+BP	GO:0046470	phosphatidylcholine metabolic process	Tfasc_v1.21288-RA	0.035
+BP	GO:0046473	phosphatidic acid metabolic process	Tfasc_v1.21288-RA	0.035
+BP	GO:0032515	negative regulation of phosphoprotein phosphatase activity	Tfasc_v1.09611-RA	0.0379
+BP	GO:0009860	pollen tube growth	Tfasc_v1.21670-RA	0.0407
+BP	GO:0030968	endoplasmic reticulum unfolded protein response	Tfasc_v1.07733-RA	0.0436
+BP	GO:0042026	protein refolding	Tfasc_v1.07733-RA	0.0493
+MF	GO:0045140	inositol phosphoceramide synthase activity	Tfasc_v1.00030-RA	0.0046
+MF	GO:0032454	histone H3K9 demethylase activity	Tfasc_v1.06529-RA	0.0046
+MF	GO:0047493	ceramide cholinephosphotransferase activity	Tfasc_v1.00030-RA	0.0046
+MF	GO:0033188	sphingomyelin synthase activity	Tfasc_v1.00030-RA	0.0046
+MF	GO:0034647	histone H3K4me/H3K4me2/H3K4me3 demethylase activity	Tfasc_v1.06529-RA	0.0076
+MF	GO:0015112	nitrate transmembrane transporter activity	Tfasc_v1.02010-RA	0.0121
+MF	GO:0004190	aspartic-type endopeptidase activity	Tfasc_v1.08612-RA, Tfasc_v1.08617-RA	0.0147
+MF	GO:0004805	trehalose-phosphatase activity	Tfasc_v1.24161-RA	0.0166
+MF	GO:0003825	alpha,alpha-trehalose-phosphate synthase (UDP-forming) activity	Tfasc_v1.24161-RA	0.0226
+MF	GO:0043295	glutathione binding	Tfasc_v1.26564-RA	0.0226
+MF	GO:0044183	protein folding chaperone	Tfasc_v1.07733-RA	0.03
+MF	GO:0051787	misfolded protein binding	Tfasc_v1.07733-RA	0.03
+MF	GO:0004693	cyclin-dependent protein serine/threonine kinase activity	Tfasc_v1.22524-RA	0.0358
+MF	GO:0010427	abscisic acid binding	Tfasc_v1.09611-RA	0.0388
+MF	GO:0008353	RNA polymerase II CTD heptapeptide repeat kinase activity	Tfasc_v1.22524-RA	0.0432
+MF	GO:0004864	protein phosphatase inhibitor activity	Tfasc_v1.09611-RA	0.0461
+MF	GO:0016762	xyloglucan:xyloglucosyl transferase activity	Tfasc_v1.06053-RA	0.0475
+MF	GO:0070290	N-acylphosphatidylethanolamine-specific phospholipase D activity	Tfasc_v1.21288-RA	0.049
+CC	GO:0000792	heterochromatin	Tfasc_v1.06529-RA	0.0018
+CC	GO:0016324	apical plasma membrane	Tfasc_v1.21670-RA	0.0036
+CC	GO:0034663	endoplasmic reticulum chaperone complex	Tfasc_v1.07733-RA	0.009
+CC	GO:0005576	extracellular region	Tfasc_v1.06053-RA, Tfasc_v1.08612-RA, Tfasc_v1.08617-RA, Tfasc_v1.18368-RA	0.0168
+CC	GO:0035097	histone methyltransferase complex	Tfasc_v1.06529-RA	0.0285
+CC	GO:0005788	endoplasmic reticulum lumen	Tfasc_v1.07733-RA	0.0442

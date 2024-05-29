@@ -1,0 +1,25 @@
+ID	Treatment	Species	DayNight
+10_drought_Tio_Night	10	drought	Tio	Night
+11_drought_Tio_Night	11	drought	Tio	Night
+12_drought_Tio_Night	12	drought	Tio	Night
+13_control_Tle_Day	13	control	Tle	Day
+14_control_Tle_Day	14	control	Tle	Day
+15_control_Tle_Day	15	control	Tle	Day
+16_control_Tle_Night	16	control	Tle	Night
+17_control_Tle_Night	17	control	Tle	Night
+18_control_Tle_Night	18	control	Tle	Night
+19_drought_Tle_Day	19	drought	Tle	Day
+1_control_Tio_Day	1	control	Tio	Day
+20_drought_Tle_Day	20	drought	Tle	Day
+21_drought_Tle_Day	21	drought	Tle	Day
+22_drought_Tle_Night	22	drought	Tle	Night
+23_drought_Tle_Night	23	drought	Tle	Night
+24_drought_Tle_Night	24	drought	Tle	Night
+2_control_Tio_Day	2	control	Tio	Day
+3_control_Tio_Day	3	control	Tio	Day
+4_control_Tio_Night	4	control	Tio	Night
+5_control_Tio_Night	5	control	Tio	Night
+6_control_Tio_Night	6	control	Tio	Night
+7_drought_Tio_Day	7	drought	Tio	Day
+8_drought_Tio_Day	8	drought	Tio	Day
+9_drought_Tio_Day	9	drought	Tio	Day

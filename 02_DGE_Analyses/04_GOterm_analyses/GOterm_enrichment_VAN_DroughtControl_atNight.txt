@@ -1,0 +1,41 @@
+Category	ID	Term	Genes	adj_pval
+BP	GO:0090414	molybdate ion export from vacuole	Tfasc_v1.17626-RA	0.0024
+BP	GO:0035672	oligopeptide transmembrane transport	Tfasc_v1.02710-RA, Tfasc_v1.22420-RA	0.0035
+BP	GO:0010133	proline catabolic process to glutamate	Tfasc_v1.01993-RA	0.0071
+BP	GO:0019346	transsulfuration	Tfasc_v1.07819-RA	0.0095
+BP	GO:0071555	cell wall organization	Tfasc_v1.06530-RA, Tfasc_v1.14331-RA, Tfasc_v1.18434-RA, Tfasc_v1.20376-RA	0.0106
+BP	GO:0009695	jasmonic acid biosynthetic process	Tfasc_v1.05517-RA	0.0166
+BP	GO:1902389	ceramide 1-phosphate transport	Tfasc_v1.23489-RA	0.0189
+BP	GO:0042732	D-xylose metabolic process	Tfasc_v1.01503-RA	0.0213
+BP	GO:0015860	purine nucleoside transmembrane transport	Tfasc_v1.02144-RA	0.0236
+BP	GO:0032875	regulation of DNA endoreduplication	Tfasc_v1.15874-RA	0.0259
+BP	GO:0031408	oxylipin biosynthetic process	Tfasc_v1.05517-RA	0.0283
+BP	GO:0006032	chitin catabolic process	Tfasc_v1.21316-RA	0.0283
+BP	GO:0120009	intermembrane lipid transfer	Tfasc_v1.23489-RA	0.0306
+BP	GO:0010193	response to ozone	Tfasc_v1.05517-RA	0.0398
+BP	GO:0006833	water transport	Tfasc_v1.10936-RA	0.0467
+BP	GO:0080163	regulation of protein serine/threonine phosphatase activity	Tfasc_v1.29709-RA	0.049
+MF	GO:0018826	methionine gamma-lyase activity	Tfasc_v1.07819-RA	0.002
+MF	GO:0004657	proline dehydrogenase activity	Tfasc_v1.01993-RA	0.002
+MF	GO:0015333	peptide:proton symporter activity	Tfasc_v1.02710-RA, Tfasc_v1.22420-RA	0.0035
+MF	GO:0016629	12-oxophytodienoate reductase activity	Tfasc_v1.05517-RA	0.004
+MF	GO:0035673	oligopeptide transmembrane transporter activity	Tfasc_v1.02710-RA, Tfasc_v1.22420-RA	0.004
+MF	GO:0047259	glucomannan 4-beta-mannosyltransferase activity	Tfasc_v1.20376-RA	0.01
+MF	GO:0030267	glyoxylate reductase (NADP+) activity	Tfasc_v1.08989-RA	0.01
+MF	GO:0008460	dTDP-glucose 4,6-dehydratase activity	Tfasc_v1.01503-RA	0.014
+MF	GO:0015098	molybdate ion transmembrane transporter activity	Tfasc_v1.17626-RA	0.016
+MF	GO:0070403	NAD+ binding	Tfasc_v1.01503-RA	0.016
+MF	GO:1902387	ceramide 1-phosphate binding	Tfasc_v1.23489-RA	0.0179
+MF	GO:1902388	ceramide 1-phosphate transfer activity	Tfasc_v1.23489-RA	0.0179
+MF	GO:0048040	UDP-glucuronate decarboxylase activity	Tfasc_v1.01503-RA	0.0179
+MF	GO:0015211	purine nucleoside transmembrane transporter activity	Tfasc_v1.02144-RA	0.0199
+MF	GO:0004867	serine-type endopeptidase inhibitor activity	Tfasc_v1.03236-RA	0.0278
+MF	GO:0005504	fatty acid binding	Tfasc_v1.00036-RA	0.0297
+MF	GO:0034485	phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase activity	Tfasc_v1.19495-RA	0.0297
+MF	GO:0015250	water channel activity	Tfasc_v1.10936-RA	0.0317
+MF	GO:0004568	chitinase activity	Tfasc_v1.21316-RA	0.0317
+MF	GO:0004439	phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity	Tfasc_v1.19495-RA	0.0414
+MF	GO:0051753	mannan synthase activity	Tfasc_v1.20376-RA	0.0433
+MF	GO:0004402	histone acetyltransferase activity	Tfasc_v1.17224-RA	0.0471
+MF	GO:0016832	aldehyde-lyase activity	Tfasc_v1.08989-RA	0.0471
+CC	GO:0005576	extracellular region	Tfasc_v1.03236-RA, Tfasc_v1.06530-RA, Tfasc_v1.14331-RA, Tfasc_v1.31952-RA	0.013

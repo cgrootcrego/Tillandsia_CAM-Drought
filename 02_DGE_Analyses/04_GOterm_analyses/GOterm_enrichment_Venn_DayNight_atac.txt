@@ -1,0 +1,16 @@
+Category	ID	Term	Genes	adj_pval
+BP	GO:0010438	cellular response to sulfur starvation	Tfasc_v1.04249-RA	0.00097
+BP	GO:0010439	regulation of glucosinolate biosynthetic process	Tfasc_v1.04249-RA	0.00097
+BP	GO:0071423	malate transmembrane transport	Tfasc_v1.06404-RA	0.00483
+BP	GO:0016567	protein ubiquitination	Tfasc_v1.09036-RA, Tfasc_v1.09042-RA, Tfasc_v1.09043-RA	0.00522
+BP	GO:0009903	chloroplast avoidance movement	Tfasc_v1.08688-RA	0.00964
+BP	GO:0009904	chloroplast accumulation movement	Tfasc_v1.08688-RA	0.00964
+BP	GO:0010215	cellulose microfibril organization	Tfasc_v1.27593-RA	0.00964
+BP	GO:0045927	positive regulation of growth	Tfasc_v1.29578-RA	0.02013
+BP	GO:0048544	recognition of pollen	Tfasc_v1.23446-RA	0.03989
+MF	GO:0004842	ubiquitin-protein transferase activity	Tfasc_v1.09036-RA, Tfasc_v1.09042-RA, Tfasc_v1.09043-RA	0.0022
+MF	GO:0015140	malate transmembrane transporter activity	Tfasc_v1.06404-RA	0.0042
+MF	GO:0008821	crossover junction DNA endonuclease activity	Tfasc_v1.21500-RA	0.005
+MF	GO:0017108	5'-flap endonuclease activity	Tfasc_v1.21500-RA	0.0091
+MF	GO:0005515	protein binding	Tfasc_v1.00078-RA, Tfasc_v1.04249-RA, Tfasc_v1.06384-RA, Tfasc_v1.06427-RA, Tfasc_v1.09036-RA, Tfasc_v1.09043-RA, Tfasc_v1.20487-RA	0.0433
+MF	GO:0003677	DNA binding	Tfasc_v1.00078-RA, Tfasc_v1.00408-RA, Tfasc_v1.15636-RA, Tfasc_v1.21500-RA	0.0488

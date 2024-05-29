@@ -1,0 +1,4 @@
+Category	ID	Term	Genes	adj_pval
+BP	GO:0015860	purine nucleoside transmembrane transport	Tfasc_v1.02144-RA	0.00064
+MF	GO:0015211	purine nucleoside transmembrane transporter activity	Tfasc_v1.02144-RA	0.00098
+MF	GO:0016747	acyltransferase activity, transferring groups other than amino-acyl groups	Tfasc_v1.28087-RA	0.03968

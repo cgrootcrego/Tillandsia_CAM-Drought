@@ -1,0 +1,88 @@
+Category	ID	Term	Genes	adj_pval
+BP	GO:1902047	polyamine transmembrane transport	Tfasc_v1.22984-RA, Tfasc_v1.23004-RA	0.00028
+BP	GO:0015867	ATP transport	Tfasc_v1.00309-RA, Tfasc_v1.08739-RA, Tfasc_v1.12398-RA, Tfasc_v1.14941-RA	0.00054
+BP	GO:0006012	galactose metabolic process	Tfasc_v1.09735-RA, Tfasc_v1.27689-RA, Tfasc_v1.27690-RA	0.00072
+BP	GO:0035435	phosphate ion transmembrane transport	Tfasc_v1.08187-RA, Tfasc_v1.08739-RA	0.00245
+BP	GO:0055085	transmembrane transport	Tfasc_v1.00309-RA, Tfasc_v1.00554-RA, Tfasc_v1.01863-RA, Tfasc_v1.02211-RA, Tfasc_v1.02252-RA, Tfasc_v1.03204-RA, Tfasc_v1.04827-RA, Tfasc_v1.06871-RA, Tfasc_v1.07492-RA, Tfasc_v1.08187-RA, Tfasc_v1.08739-RA, Tfasc_v1.09195-RA, Tfasc_v1.11129-RA, Tfasc_v1.12398-RA, Tfasc_v1.14941-RA, Tfasc_v1.16231-RA, Tfasc_v1.18298-RA, Tfasc_v1.22984-RA, Tfasc_v1.23004-RA, Tfasc_v1.29710-RA, Tfasc_v1.30089-RA	0.00381
+BP	GO:0009959	negative gravitropism	Tfasc_v1.24163-RA, Tfasc_v1.33679-RA	0.00459
+BP	GO:0015709	thiosulfate transport	Tfasc_v1.08739-RA	0.00684
+BP	GO:1902184	negative regulation of shoot apical meristem development	Tfasc_v1.26716-RA	0.00684
+BP	GO:0015839	cadaverine transport	Tfasc_v1.01863-RA	0.00684
+BP	GO:0089709	L-histidine transmembrane transport	Tfasc_v1.14941-RA	0.00684
+BP	GO:1902603	carnitine transmembrane transport	Tfasc_v1.01863-RA	0.00684
+BP	GO:0006865	amino acid transport	Tfasc_v1.14941-RA, Tfasc_v1.30089-RA	0.01356
+BP	GO:0010044	response to aluminum ion	Tfasc_v1.08187-RA	0.01363
+BP	GO:1990052	ER to chloroplast lipid transport	Tfasc_v1.03475-RA	0.01363
+BP	GO:0071422	succinate transmembrane transport	Tfasc_v1.08739-RA	0.01363
+BP	GO:0080065	4-alpha-methyl-delta7-sterol oxidation	Tfasc_v1.14320-RA	0.01363
+BP	GO:1902356	oxaloacetate(2-) transmembrane transport	Tfasc_v1.08739-RA	0.01363
+BP	GO:0048250	iron import into the mitochondrion	Tfasc_v1.00309-RA	0.01363
+BP	GO:0006844	acyl carnitine transport	Tfasc_v1.14941-RA	0.01363
+BP	GO:0009590	detection of gravity	Tfasc_v1.07880-RA	0.01363
+BP	GO:0042542	response to hydrogen peroxide	Tfasc_v1.14688-RA, Tfasc_v1.33258-RA	0.01454
+BP	GO:0017014	protein nitrosylation	Tfasc_v1.33258-RA	0.02037
+BP	GO:0033355	ascorbate glutathione cycle	Tfasc_v1.00145-RA	0.02037
+BP	GO:1903826	L-arginine transmembrane transport	Tfasc_v1.14941-RA	0.02037
+BP	GO:0032955	regulation of division septum assembly	Tfasc_v1.12076-RA	0.02037
+BP	GO:0033484	intracellular nitric oxide homeostasis	Tfasc_v1.33258-RA	0.02037
+BP	GO:0048577	negative regulation of short-day photoperiodism, flowering	Tfasc_v1.26061-RA	0.02037
+BP	GO:1903352	L-ornithine transmembrane transport	Tfasc_v1.14941-RA	0.02707
+BP	GO:0050665	hydrogen peroxide biosynthetic process	Tfasc_v1.33258-RA	0.02707
+BP	GO:0071423	malate transmembrane transport	Tfasc_v1.08739-RA	0.03372
+BP	GO:0010731	protein glutathionylation	Tfasc_v1.00145-RA	0.03372
+BP	GO:0097503	sialylation	Tfasc_v1.33394-RA	0.03372
+BP	GO:1990641	response to iron ion starvation	Tfasc_v1.23254-RA	0.03372
+BP	GO:0006597	spermine biosynthetic process	Tfasc_v1.14175-RA	0.03372
+BP	GO:0006561	proline biosynthetic process	Tfasc_v1.14941-RA	0.04033
+BP	GO:1903401	L-lysine transmembrane transport	Tfasc_v1.14941-RA	0.04033
+BP	GO:0009800	cinnamic acid biosynthetic process	Tfasc_v1.07643-RA	0.04033
+BP	GO:0016567	protein ubiquitination	Tfasc_v1.01576-RA, Tfasc_v1.06871-RA, Tfasc_v1.13193-RA, Tfasc_v1.13945-RA, Tfasc_v1.16562-RA, Tfasc_v1.16892-RA	0.04466
+BP	GO:0010112	regulation of systemic acquired resistance	Tfasc_v1.16857-RA	0.04689
+BP	GO:0007623	circadian rhythm	Tfasc_v1.21909-RA, Tfasc_v1.33258-RA	0.04921
+MF	GO:0047216	inositol 3-alpha-galactosyltransferase activity	Tfasc_v1.09735-RA, Tfasc_v1.27689-RA, Tfasc_v1.27690-RA	7.7e-06
+MF	GO:0005506	iron ion binding	Tfasc_v1.00367-RA, Tfasc_v1.00779-RA, Tfasc_v1.07609-RA, Tfasc_v1.14320-RA, Tfasc_v1.16131-RA, Tfasc_v1.17160-RA, Tfasc_v1.17165-RA, Tfasc_v1.17172-RA, Tfasc_v1.18354-RA, Tfasc_v1.21211-RA, Tfasc_v1.21995-RA	4.8e-05
+MF	GO:0015203	polyamine transmembrane transporter activity	Tfasc_v1.22984-RA, Tfasc_v1.23004-RA	0.00032
+MF	GO:0003958	NADPH-hemoprotein reductase activity	Tfasc_v1.13301-RA, Tfasc_v1.13304-RA	0.00053
+MF	GO:0020037	heme binding	Tfasc_v1.00367-RA, Tfasc_v1.00779-RA, Tfasc_v1.07609-RA, Tfasc_v1.16131-RA, Tfasc_v1.17160-RA, Tfasc_v1.17165-RA, Tfasc_v1.17172-RA, Tfasc_v1.18354-RA, Tfasc_v1.21211-RA, Tfasc_v1.33258-RA	0.00071
+MF	GO:0016709	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen	Tfasc_v1.00367-RA, Tfasc_v1.13301-RA, Tfasc_v1.13304-RA, Tfasc_v1.17160-RA, Tfasc_v1.17165-RA, Tfasc_v1.17172-RA, Tfasc_v1.18354-RA	0.00089
+MF	GO:0008194	UDP-glycosyltransferase activity	Tfasc_v1.04236-RA, Tfasc_v1.06297-RA, Tfasc_v1.08799-RA, Tfasc_v1.09735-RA, Tfasc_v1.10985-RA, Tfasc_v1.11020-RA, Tfasc_v1.12176-RA, Tfasc_v1.14607-RA, Tfasc_v1.15510-RA, Tfasc_v1.27689-RA, Tfasc_v1.27690-RA	0.00115
+MF	GO:0010181	FMN binding	Tfasc_v1.13301-RA, Tfasc_v1.13304-RA, Tfasc_v1.20525-RA	0.00252
+MF	GO:0005347	ATP transmembrane transporter activity	Tfasc_v1.00309-RA, Tfasc_v1.08739-RA, Tfasc_v1.12398-RA, Tfasc_v1.14941-RA	0.00406
+MF	GO:0005290	L-histidine transmembrane transporter activity	Tfasc_v1.14941-RA	0.00735
+MF	GO:0015226	carnitine transmembrane transporter activity	Tfasc_v1.01863-RA	0.00735
+MF	GO:0015117	thiosulfate transmembrane transporter activity	Tfasc_v1.08739-RA	0.00735
+MF	GO:0016768	spermine synthase activity	Tfasc_v1.14175-RA	0.00735
+MF	GO:0016758	hexosyltransferase activity	Tfasc_v1.04236-RA, Tfasc_v1.06297-RA, Tfasc_v1.08655-RA, Tfasc_v1.08799-RA, Tfasc_v1.09735-RA, Tfasc_v1.10985-RA, Tfasc_v1.11020-RA, Tfasc_v1.12176-RA, Tfasc_v1.14607-RA, Tfasc_v1.15510-RA, Tfasc_v1.27689-RA, Tfasc_v1.27690-RA	0.00772
+MF	GO:0016887	ATP hydrolysis activity	Tfasc_v1.02211-RA, Tfasc_v1.06871-RA, Tfasc_v1.08187-RA, Tfasc_v1.16231-RA, Tfasc_v1.26654-RA, Tfasc_v1.27979-RA	0.0096
+MF	GO:0031386	protein tag	Tfasc_v1.06871-RA, Tfasc_v1.13193-RA	0.01028
+MF	GO:0004497	monooxygenase activity	Tfasc_v1.00367-RA, Tfasc_v1.00779-RA, Tfasc_v1.07609-RA, Tfasc_v1.13301-RA, Tfasc_v1.13304-RA, Tfasc_v1.14320-RA, Tfasc_v1.16131-RA, Tfasc_v1.17160-RA, Tfasc_v1.17165-RA, Tfasc_v1.17172-RA, Tfasc_v1.18354-RA, Tfasc_v1.21211-RA	0.01369
+MF	GO:0015141	succinate transmembrane transporter activity	Tfasc_v1.08739-RA	0.01465
+MF	GO:0015131	oxaloacetate transmembrane transporter activity	Tfasc_v1.08739-RA	0.01465
+MF	GO:0004301	epoxide hydrolase activity	Tfasc_v1.01520-RA	0.01465
+MF	GO:0004614	phosphoglucomutase activity	Tfasc_v1.07880-RA	0.01465
+MF	GO:0050112	inositol 2-dehydrogenase activity	Tfasc_v1.20334-RA	0.01465
+MF	GO:1990465	aldehyde oxygenase (deformylating) activity	Tfasc_v1.14320-RA	0.02189
+MF	GO:0045174	glutathione dehydrogenase (ascorbate) activity	Tfasc_v1.00145-RA	0.02189
+MF	GO:0009924	octadecanal decarbonylase activity	Tfasc_v1.14320-RA	0.02189
+MF	GO:0004028	3-chloroallyl aldehyde dehydrogenase activity	Tfasc_v1.22639-RA	0.02189
+MF	GO:0008955	peptidoglycan glycosyltransferase activity	Tfasc_v1.08655-RA	0.02189
+MF	GO:0047746	chlorophyllase activity	Tfasc_v1.20482-RA	0.02908
+MF	GO:0004766	spermidine synthase activity	Tfasc_v1.14175-RA	0.02908
+MF	GO:0000064	L-ornithine transmembrane transporter activity	Tfasc_v1.14941-RA	0.02908
+MF	GO:0004708	MAP kinase kinase activity	Tfasc_v1.07941-RA	0.03622
+MF	GO:0000254	C-4 methylsterol oxidase activity	Tfasc_v1.14320-RA	0.03622
+MF	GO:0003994	aconitate hydratase activity	Tfasc_v1.17156-RA	0.03622
+MF	GO:0015140	malate transmembrane transporter activity	Tfasc_v1.08739-RA	0.03622
+MF	GO:0047780	citrate dehydratase activity	Tfasc_v1.17156-RA	0.03622
+MF	GO:0005460	UDP-glucose transmembrane transporter activity	Tfasc_v1.08187-RA	0.03622
+MF	GO:0008373	sialyltransferase activity	Tfasc_v1.33394-RA	0.03622
+MF	GO:0016710	trans-cinnamate 4-monooxygenase activity	Tfasc_v1.00367-RA	0.03622
+MF	GO:0004096	catalase activity	Tfasc_v1.33258-RA	0.03622
+MF	GO:0051087	chaperone binding	Tfasc_v1.16416-RA, Tfasc_v1.30674-RA	0.03814
+MF	GO:0031625	ubiquitin protein ligase binding	Tfasc_v1.06871-RA, Tfasc_v1.13193-RA	0.03981
+MF	GO:0015189	L-lysine transmembrane transporter activity	Tfasc_v1.14941-RA	0.0433
+MF	GO:0045548	phenylalanine ammonia-lyase activity	Tfasc_v1.07643-RA	0.0433
+MF	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	Tfasc_v1.00367-RA, Tfasc_v1.00779-RA, Tfasc_v1.07609-RA, Tfasc_v1.13301-RA, Tfasc_v1.13304-RA, Tfasc_v1.14320-RA, Tfasc_v1.16131-RA, Tfasc_v1.17160-RA, Tfasc_v1.17165-RA, Tfasc_v1.17172-RA, Tfasc_v1.18354-RA, Tfasc_v1.21211-RA	0.04791
+CC	GO:0098807	chloroplast thylakoid membrane protein complex	Tfasc_v1.21909-RA	0.026
+CC	GO:0031464	Cul4A-RING E3 ubiquitin ligase complex	Tfasc_v1.13945-RA	0.039
+CC	GO:0071541	eukaryotic translation initiation factor 3 complex, eIF3m	Tfasc_v1.20303-RA	0.046

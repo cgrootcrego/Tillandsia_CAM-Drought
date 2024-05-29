@@ -1,0 +1,71 @@
+Category	ID	Term	Genes	adj_pval
+BP	GO:0009768	photosynthesis, light harvesting in photosystem I	Tfasc_v1.04301-RA, Tfasc_v1.05971-RA, Tfasc_v1.09764-RA, Tfasc_v1.10775-RA, Tfasc_v1.10778-RA, Tfasc_v1.15053-RA, Tfasc_v1.22502-RA, Tfasc_v1.24065-RA, Tfasc_v1.25753-RA	5.4e-17
+BP	GO:0009416	response to light stimulus	Tfasc_v1.04301-RA, Tfasc_v1.04702-RA, Tfasc_v1.05971-RA, Tfasc_v1.08891-RA, Tfasc_v1.09764-RA, Tfasc_v1.10775-RA, Tfasc_v1.10778-RA, Tfasc_v1.13975-RA, Tfasc_v1.14652-RA, Tfasc_v1.15053-RA, Tfasc_v1.21651-RA, Tfasc_v1.22502-RA, Tfasc_v1.22809-RA, Tfasc_v1.24065-RA, Tfasc_v1.25753-RA	1.4e-07
+BP	GO:0007623	circadian rhythm	Tfasc_v1.13975-RA, Tfasc_v1.14652-RA, Tfasc_v1.23066-RA, Tfasc_v1.29416-RA	0.00076
+BP	GO:0009773	photosynthetic electron transport in photosystem I	Tfasc_v1.20522-RA, Tfasc_v1.21651-RA	0.00213
+BP	GO:0000160	phosphorelay signal transduction system	Tfasc_v1.00174-RA, Tfasc_v1.03490-RA, Tfasc_v1.21208-RA, Tfasc_v1.22759-RA, Tfasc_v1.26823-RA	0.0033
+BP	GO:0009644	response to high light intensity	Tfasc_v1.08891-RA, Tfasc_v1.10775-RA, Tfasc_v1.21651-RA	0.00446
+BP	GO:0009769	photosynthesis, light harvesting in photosystem II	Tfasc_v1.10775-RA	0.00535
+BP	GO:0010378	temperature compensation of the circadian clock	Tfasc_v1.14652-RA	0.00535
+BP	GO:2001007	negative regulation of cellulose biosynthetic process	Tfasc_v1.13975-RA	0.00535
+BP	GO:0010583	response to cyclopentenone	Tfasc_v1.27591-RA	0.00535
+BP	GO:0009738	abscisic acid-activated signaling pathway	Tfasc_v1.04613-RA, Tfasc_v1.20275-RA, Tfasc_v1.30039-RA	0.0073
+BP	GO:0009873	ethylene-activated signaling pathway	Tfasc_v1.03490-RA, Tfasc_v1.26823-RA	0.00784
+BP	GO:0042542	response to hydrogen peroxide	Tfasc_v1.04954-RA, Tfasc_v1.14652-RA	0.00911
+BP	GO:0009637	response to blue light	Tfasc_v1.13975-RA, Tfasc_v1.14652-RA, Tfasc_v1.22809-RA	0.00957
+BP	GO:0001578	microtubule bundle formation	Tfasc_v1.04702-RA	0.01068
+BP	GO:0060776	simple leaf morphogenesis	Tfasc_v1.17350-RA	0.01068
+BP	GO:0046622	positive regulation of organ growth	Tfasc_v1.15597-RA	0.01597
+BP	GO:0010205	photoinhibition	Tfasc_v1.08891-RA	0.02124
+BP	GO:0010117	photoprotection	Tfasc_v1.21651-RA	0.02124
+BP	GO:0009647	skotomorphogenesis	Tfasc_v1.04702-RA	0.02124
+BP	GO:0016573	histone acetylation	Tfasc_v1.17456-RA, Tfasc_v1.17457-RA	0.02218
+BP	GO:0006597	spermine biosynthetic process	Tfasc_v1.05044-RA	0.02648
+BP	GO:0046506	sulfolipid biosynthetic process	Tfasc_v1.12147-RA	0.02648
+BP	GO:0010304	PSII associated light-harvesting complex II catabolic process	Tfasc_v1.08891-RA	0.02648
+BP	GO:0042981	regulation of apoptotic process	Tfasc_v1.08891-RA	0.02648
+BP	GO:0042742	defense response to bacterium	Tfasc_v1.09717-RA, Tfasc_v1.12218-RA, Tfasc_v1.30039-RA	0.02769
+BP	GO:0006355	regulation of DNA-templated transcription	Tfasc_v1.03490-RA, Tfasc_v1.09604-RA, Tfasc_v1.09658-RA, Tfasc_v1.10887-RA, Tfasc_v1.13975-RA, Tfasc_v1.14652-RA, Tfasc_v1.17456-RA, Tfasc_v1.17457-RA, Tfasc_v1.20175-RA, Tfasc_v1.23066-RA, Tfasc_v1.26645-RA, Tfasc_v1.26823-RA, Tfasc_v1.29416-RA, Tfasc_v1.33700-RA	0.02812
+BP	GO:2000033	regulation of seed dormancy process	Tfasc_v1.09658-RA	0.0317
+BP	GO:0006542	glutamine biosynthetic process	Tfasc_v1.27147-RA	0.0317
+BP	GO:0048578	positive regulation of long-day photoperiodism, flowering	Tfasc_v1.14652-RA	0.03688
+BP	GO:0007165	signal transduction	Tfasc_v1.00174-RA, Tfasc_v1.02069-RA, Tfasc_v1.03490-RA, Tfasc_v1.04613-RA, Tfasc_v1.09658-RA, Tfasc_v1.12218-RA, Tfasc_v1.13141-RA, Tfasc_v1.13185-RA, Tfasc_v1.17350-RA, Tfasc_v1.20275-RA, Tfasc_v1.21208-RA, Tfasc_v1.22759-RA, Tfasc_v1.22809-RA, Tfasc_v1.26823-RA, Tfasc_v1.27815-RA, Tfasc_v1.27816-RA, Tfasc_v1.30039-RA	0.04101
+BP	GO:0009785	blue light signaling pathway	Tfasc_v1.22809-RA	0.04204
+BP	GO:0010187	negative regulation of seed germination	Tfasc_v1.09658-RA	0.04204
+BP	GO:0009938	negative regulation of gibberellic acid mediated signaling pathway	Tfasc_v1.09658-RA	0.04204
+BP	GO:0071484	cellular response to light intensity	Tfasc_v1.21651-RA	0.04204
+BP	GO:0009635	response to herbicide	Tfasc_v1.10775-RA	0.04204
+BP	GO:0010275	NAD(P)H dehydrogenase complex assembly	Tfasc_v1.05174-RA	0.04717
+MF	GO:0016168	chlorophyll binding	Tfasc_v1.04301-RA, Tfasc_v1.05971-RA, Tfasc_v1.09764-RA, Tfasc_v1.10775-RA, Tfasc_v1.10778-RA, Tfasc_v1.15053-RA, Tfasc_v1.22502-RA, Tfasc_v1.24065-RA, Tfasc_v1.25753-RA	1.6e-14
+MF	GO:0004402	histone acetyltransferase activity	Tfasc_v1.17456-RA, Tfasc_v1.17457-RA	0.0072
+MF	GO:0016709	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen	Tfasc_v1.03728-RA, Tfasc_v1.03737-RA, Tfasc_v1.04698-RA, Tfasc_v1.06238-RA	0.01
+MF	GO:0047172	shikimate O-hydroxycinnamoyltransferase activity	Tfasc_v1.05069-RA	0.0107
+MF	GO:0003677	DNA binding	Tfasc_v1.00065-RA, Tfasc_v1.00227-RA, Tfasc_v1.03490-RA, Tfasc_v1.08990-RA, Tfasc_v1.09604-RA, Tfasc_v1.09658-RA, Tfasc_v1.10887-RA, Tfasc_v1.17356-RA, Tfasc_v1.17359-RA, Tfasc_v1.20175-RA, Tfasc_v1.26645-RA, Tfasc_v1.26823-RA, Tfasc_v1.28725-RA, Tfasc_v1.29583-RA, Tfasc_v1.30183-RA, Tfasc_v1.33700-RA	0.0122
+MF	GO:0046510	UDP-sulfoquinovose:DAG sulfoquinovosyltransferase activity	Tfasc_v1.12147-RA	0.0159
+MF	GO:0034480	phosphatidylcholine phospholipase C activity	Tfasc_v1.01361-RA	0.0159
+MF	GO:0046863	ribulose-1,5-bisphosphate carboxylase/oxygenase activator activity	Tfasc_v1.26167-RA	0.0159
+MF	GO:0003700	DNA-binding transcription factor activity	Tfasc_v1.03490-RA, Tfasc_v1.09604-RA, Tfasc_v1.09658-RA, Tfasc_v1.10887-RA, Tfasc_v1.20175-RA, Tfasc_v1.26645-RA, Tfasc_v1.26823-RA, Tfasc_v1.33700-RA	0.02
+MF	GO:0004842	ubiquitin-protein transferase activity	Tfasc_v1.00227-RA, Tfasc_v1.16172-RA, Tfasc_v1.17350-RA, Tfasc_v1.28195-RA, Tfasc_v1.30020-RA	0.0201
+MF	GO:0036361	racemase activity, acting on amino acids and derivatives	Tfasc_v1.23932-RA	0.0212
+MF	GO:0004014	adenosylmethionine decarboxylase activity	Tfasc_v1.05044-RA	0.0212
+MF	GO:0003712	transcription coregulator activity	Tfasc_v1.17456-RA, Tfasc_v1.17457-RA, Tfasc_v1.26645-RA	0.026
+MF	GO:0047631	ADP-ribose diphosphatase activity	Tfasc_v1.02069-RA	0.0264
+MF	GO:0004356	glutamate-ammonia ligase activity	Tfasc_v1.27147-RA	0.0316
+MF	GO:0035529	NADH pyrophosphatase activity	Tfasc_v1.02069-RA	0.0316
+MF	GO:0015248	sterol transporter activity	Tfasc_v1.22331-RA	0.0368
+MF	GO:0004106	chorismate mutase activity	Tfasc_v1.07027-RA	0.0368
+MF	GO:0047769	arogenate dehydratase activity	Tfasc_v1.07027-RA	0.0368
+MF	GO:0005506	iron ion binding	Tfasc_v1.03728-RA, Tfasc_v1.03737-RA, Tfasc_v1.04698-RA, Tfasc_v1.04702-RA, Tfasc_v1.06238-RA	0.037
+MF	GO:0004664	prephenate dehydratase activity	Tfasc_v1.07027-RA	0.0419
+MF	GO:0031492	nucleosomal DNA binding	Tfasc_v1.08990-RA	0.0419
+MF	GO:0032934	sterol binding	Tfasc_v1.22331-RA	0.0471
+MF	GO:0003854	3-beta-hydroxy-delta5-steroid dehydrogenase activity	Tfasc_v1.09717-RA	0.0471
+CC	GO:0009523	photosystem II	Tfasc_v1.00232-RA, Tfasc_v1.04301-RA, Tfasc_v1.05971-RA, Tfasc_v1.09764-RA, Tfasc_v1.10775-RA, Tfasc_v1.10778-RA, Tfasc_v1.15053-RA, Tfasc_v1.22502-RA, Tfasc_v1.24065-RA, Tfasc_v1.25753-RA	3.4e-13
+CC	GO:0009522	photosystem I	Tfasc_v1.04301-RA, Tfasc_v1.05971-RA, Tfasc_v1.09764-RA, Tfasc_v1.10775-RA, Tfasc_v1.10778-RA, Tfasc_v1.15053-RA, Tfasc_v1.22502-RA, Tfasc_v1.24065-RA, Tfasc_v1.25753-RA	2.5e-12
+CC	GO:0010287	plastoglobule	Tfasc_v1.04301-RA, Tfasc_v1.09764-RA, Tfasc_v1.10775-RA, Tfasc_v1.10778-RA, Tfasc_v1.15053-RA, Tfasc_v1.22502-RA, Tfasc_v1.24065-RA, Tfasc_v1.25753-RA	6.9e-11
+CC	GO:0009535	chloroplast thylakoid membrane	Tfasc_v1.04301-RA, Tfasc_v1.05174-RA, Tfasc_v1.05971-RA, Tfasc_v1.08891-RA, Tfasc_v1.09764-RA, Tfasc_v1.10775-RA, Tfasc_v1.10778-RA, Tfasc_v1.15053-RA, Tfasc_v1.20522-RA, Tfasc_v1.21651-RA, Tfasc_v1.22502-RA, Tfasc_v1.24065-RA, Tfasc_v1.25753-RA	4.1e-09
+CC	GO:0009941	chloroplast envelope	Tfasc_v1.04301-RA, Tfasc_v1.08891-RA, Tfasc_v1.09764-RA, Tfasc_v1.10775-RA, Tfasc_v1.10778-RA, Tfasc_v1.12147-RA, Tfasc_v1.15053-RA, Tfasc_v1.24065-RA	0.00083
+CC	GO:0009517	PSII associated light-harvesting complex II	Tfasc_v1.10775-RA	0.0055
+CC	GO:0005634	nucleus	Tfasc_v1.00174-RA, Tfasc_v1.01157-RA, Tfasc_v1.03490-RA, Tfasc_v1.04613-RA, Tfasc_v1.06676-RA, Tfasc_v1.08990-RA, Tfasc_v1.08996-RA, Tfasc_v1.09101-RA, Tfasc_v1.09604-RA, Tfasc_v1.09658-RA, Tfasc_v1.10887-RA, Tfasc_v1.13141-RA, Tfasc_v1.13975-RA, Tfasc_v1.14652-RA, Tfasc_v1.14711-RA, Tfasc_v1.15208-RA, Tfasc_v1.17456-RA, Tfasc_v1.17457-RA, Tfasc_v1.20275-RA, Tfasc_v1.21208-RA, Tfasc_v1.22759-RA, Tfasc_v1.25696-RA, Tfasc_v1.26645-RA, Tfasc_v1.26823-RA, Tfasc_v1.28725-RA, Tfasc_v1.30039-RA, Tfasc_v1.33700-RA	0.00814
+CC	GO:0043240	Fanconi anaemia nuclear complex	Tfasc_v1.14711-RA	0.02719
+CC	GO:0043186	P granule	Tfasc_v1.01157-RA	0.04842

@@ -1,0 +1,41 @@
+Category	ID	Term	Genes	adj_pval
+BP	GO:1902123	(-)-pinoresinol catabolic process	Tfasc_v1.24093-RA	0.002
+BP	GO:1902125	(+)-pinoresinol catabolic process	Tfasc_v1.24093-RA	0.002
+BP	GO:1902128	(-)-lariciresinol catabolic process	Tfasc_v1.24093-RA	0.002
+BP	GO:1902129	(-)-lariciresinol biosynthetic process	Tfasc_v1.24093-RA	0.002
+BP	GO:1902131	(+)-lariciresinol catabolic process	Tfasc_v1.24093-RA	0.002
+BP	GO:1902132	(+)-lariciresinol biosynthetic process	Tfasc_v1.24093-RA	0.002
+BP	GO:1902135	(+)-secoisolariciresinol biosynthetic process	Tfasc_v1.24093-RA	0.002
+BP	GO:1902138	(-)-secoisolariciresinol biosynthetic process	Tfasc_v1.24093-RA	0.002
+BP	GO:0045900	negative regulation of translational elongation	Tfasc_v1.07884-RA	0.004
+BP	GO:0032780	negative regulation of ATP-dependent activity	Tfasc_v1.29958-RA	0.004
+BP	GO:0006021	inositol biosynthetic process	Tfasc_v1.23052-RA	0.006
+BP	GO:0051014	actin filament severing	Tfasc_v1.05402-RC	0.02
+BP	GO:0009423	chorismate biosynthetic process	Tfasc_v1.23078-RA	0.022
+MF	GO:0080043	quercetin 3-O-glucosyltransferase activity	Tfasc_v1.08795-RA, Tfasc_v1.08797-RA	0.00092
+MF	GO:0080044	quercetin 7-O-glucosyltransferase activity	Tfasc_v1.08795-RA, Tfasc_v1.08797-RA	0.00092
+MF	GO:0004558	alpha-1,4-glucosidase activity	Tfasc_v1.26473-RA	0.00196
+MF	GO:0042030	ATPase inhibitor activity	Tfasc_v1.29958-RA	0.00196
+MF	GO:0010283	pinoresinol reductase activity	Tfasc_v1.24093-RA	0.00196
+MF	GO:0010284	lariciresinol reductase activity	Tfasc_v1.24093-RA	0.00196
+MF	GO:0004512	inositol-3-phosphate synthase activity	Tfasc_v1.23052-RA	0.00392
+MF	GO:0004028	3-chloroallyl aldehyde dehydrogenase activity	Tfasc_v1.07804-RA	0.00587
+MF	GO:0046577	long-chain-alcohol oxidase activity	Tfasc_v1.06467-RA	0.00587
+MF	GO:0033897	ribonuclease T2 activity	Tfasc_v1.18401-RA	0.00976
+MF	GO:0043024	ribosomal small subunit binding	Tfasc_v1.07884-RA	0.00976
+MF	GO:0003849	3-deoxy-7-phosphoheptulonate synthase activity	Tfasc_v1.23078-RA	0.0117
+MF	GO:0004097	catechol oxidase activity	Tfasc_v1.21934-RA	0.0117
+MF	GO:0008131	primary amine oxidase activity	Tfasc_v1.03269-RA	0.01364
+MF	GO:0003989	acetyl-CoA carboxylase activity	Tfasc_v1.23210-RA	0.02135
+MF	GO:0004560	alpha-L-fucosidase activity	Tfasc_v1.13126-RA	0.02519
+MF	GO:0034485	phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase activity	Tfasc_v1.18617-RA	0.02901
+MF	GO:0016709	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen	Tfasc_v1.22318-RA, Tfasc_v1.22355-RA	0.0379
+MF	GO:0048038	quinone binding	Tfasc_v1.03269-RA	0.03849
+MF	GO:0004439	phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity	Tfasc_v1.18617-RA	0.04038
+MF	GO:0031386	protein tag	Tfasc_v1.02224-RA	0.04038
+MF	GO:0004743	pyruvate kinase activity	Tfasc_v1.14914-RA	0.04226
+MF	GO:0030955	potassium ion binding	Tfasc_v1.14914-RA	0.04226
+CC	GO:0009317	acetyl-CoA carboxylase complex	Tfasc_v1.23210-RA	0.0094
+CC	GO:0010598	NAD(P)H dehydrogenase complex (plastoquinone)	Tfasc_v1.13903-RA	0.0156
+CC	GO:0000815	ESCRT III complex	Tfasc_v1.27980-RA	0.0233
+CC	GO:0005771	multivesicular body	Tfasc_v1.27980-RA	0.034

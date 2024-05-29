@@ -1,0 +1,7 @@
+Category	ID	Term	Genes	adj_pval
+BP	GO:0090414	molybdate ion export from vacuole	Tfasc_v1.17626-RA	0.00013
+BP	GO:0046856	phosphatidylinositol dephosphorylation	Tfasc_v1.19495-RA	0.00374
+MF	GO:0015098	molybdate ion transmembrane transporter activity	Tfasc_v1.17626-RA	0.00078
+MF	GO:0034485	phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase activity	Tfasc_v1.19495-RA	0.00147
+MF	GO:0004439	phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity	Tfasc_v1.19495-RA	0.00206
+CC	GO:0009705	plant-type vacuole membrane	Tfasc_v1.17626-RA	0.0044

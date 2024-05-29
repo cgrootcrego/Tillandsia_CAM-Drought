@@ -1,0 +1,23 @@
+Category	ID	Term	Genes	adj_pval
+BP	GO:0019310	inositol catabolic process	Tfasc_v1.14231-RA	0.0023
+BP	GO:0045892	negative regulation of DNA-templated transcription	Tfasc_v1.15727-RA, Tfasc_v1.32620-RA	0.0044
+BP	GO:0007229	integrin-mediated signaling pathway	Tfasc_v1.22453-RA	0.0046
+BP	GO:0042744	hydrogen peroxide catabolic process	Tfasc_v1.23628-RA, Tfasc_v1.23629-RA	0.0075
+BP	GO:0098869	cellular oxidant detoxification	Tfasc_v1.23628-RA, Tfasc_v1.23629-RA	0.0185
+BP	GO:0006979	response to oxidative stress	Tfasc_v1.23628-RA, Tfasc_v1.23629-RA	0.0364
+BP	GO:0042026	protein refolding	Tfasc_v1.29607-RA	0.0388
+BP	GO:0034620	cellular response to unfolded protein	Tfasc_v1.29607-RA	0.0432
+BP	GO:0051085	chaperone cofactor-dependent protein refolding	Tfasc_v1.29607-RA	0.0443
+MF	GO:0050113	inositol oxygenase activity	Tfasc_v1.14231-RA	0.002
+MF	GO:0020037	heme binding	Tfasc_v1.22323-RA, Tfasc_v1.23628-RA, Tfasc_v1.23629-RA	0.0065
+MF	GO:0004601	peroxidase activity	Tfasc_v1.23628-RA, Tfasc_v1.23629-RA	0.0091
+MF	GO:0051787	misfolded protein binding	Tfasc_v1.29607-RA	0.0194
+MF	GO:0044183	protein folding chaperone	Tfasc_v1.29607-RA	0.0194
+MF	GO:0005200	structural constituent of cytoskeleton	Tfasc_v1.11971-RA	0.0213
+MF	GO:0008422	beta-glucosidase activity	Tfasc_v1.16008-RA	0.0261
+MF	GO:0003887	DNA-directed DNA polymerase activity	Tfasc_v1.14158-RA	0.0319
+MF	GO:0031072	heat shock protein binding	Tfasc_v1.29607-RA	0.0423
+MF	GO:0005506	iron ion binding	Tfasc_v1.14231-RA, Tfasc_v1.22323-RA	0.0438
+MF	GO:0005351	carbohydrate:proton symporter activity	Tfasc_v1.05129-RA	0.0441
+CC	GO:0008278	cohesin complex	Tfasc_v1.30321-RA	0.0055
+CC	GO:0009543	chloroplast thylakoid lumen	Tfasc_v1.30654-RA	0.0109
